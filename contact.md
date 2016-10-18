@@ -7,7 +7,7 @@ Principal investigator:
 
 
 > Po-Lin Chiu<br>
-> 480.XXX.XXXX | plchiu@asu.edu<br>
+> 480.965.3176 | plchiu@asu.edu<br>
 > 1001 South McAllister Avenue<br>
 > Biodesign Building A230A<br>
 > Tempe, Arizona 85287<br>
