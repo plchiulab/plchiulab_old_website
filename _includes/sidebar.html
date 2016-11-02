@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          <img src="images/000042.png" alt="diffraction" style="width:300px;height:300px;">   
+          <img src="images/sidebarpic_03.png" alt="cholesterol" style="width:228px;height:228px;">   
           {{ site.title }}
         </a>
       </h1>
@@ -15,7 +15,7 @@
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 --> 
 
-      <a class="sidebar-nav-item" href="homenews.html">Home</a>
+      <a class="sidebar-nav-item" href="index.html">Home</a>
       <a class="sidebar-nav-item" href="research.html">Research</a>
       <a class="sidebar-nav-item" href="people.html">People</a>
       <a class="sidebar-nav-item" href="publications.html">Publications</a>
@@ -43,6 +43,6 @@
       <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p> {{ site.time | date: '%B %d, %Y' }}.  </p>
   </div>
 </div>

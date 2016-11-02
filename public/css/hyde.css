@@ -39,7 +39,7 @@ html {
 p, 
 ul {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 15px;
+  font-size: 16px;
 }
 
 @media (min-width: 48em) {
@@ -53,6 +53,21 @@ ul {
   }
 }
 
+/*
+ * Home-made header
+*/
+
+.header-image {
+  max-height: 750px;
+}
+
+.header {
+  width: 100%;
+  margin-top: 10px;
+}
+
+
+
 
 /*
  * Sidebar
@@ -65,7 +80,7 @@ ul {
   text-align: left;
   padding: 2rem 1rem;
   color: rgba(250,250,250,.5);
-  background-color: #818181;
+  background-color: #000000;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -88,7 +103,7 @@ ul {
   color: #fff;
   margin-top: 0;
   font-family: Helvetica, Arial;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 /* Sidebar nav */
@@ -97,14 +112,14 @@ ul {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.65;
+  line-height: 1.60;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
 .sidebar-nav-item.active {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 /* Sticky sidebar
@@ -132,11 +147,12 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+  margin: 0 auto;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 110rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -173,7 +189,6 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
 
 
 /*
@@ -256,3 +271,5 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Addition */

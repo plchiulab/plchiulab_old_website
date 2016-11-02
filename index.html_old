@@ -1,0 +1,43 @@
+---
+layout: page
+---
+
+Welcome to Chiu Laboratory!
+
+## News
+#### October 10, 2016
+Announcement of the Cryo-EM Workshop of the TEM Winter School at ASU. 
+
+
+#### September 21, 2016
+The parts of the FEI Titan Krios has been delivered to the Southwestern Aberration-Corrected Electron Microscopy Center. 
+
+
+#### August 16, 2016
+The laboratory starts running! 
+
+
+
+<!--
+<div class="home">
+
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!--
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS.</a></p>
+-->
+    
+</div> 
