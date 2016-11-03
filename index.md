@@ -13,6 +13,7 @@ layout: first_page
 <br>
 
 ## Seminars
+
 #### November 3-4, 2016
 Eyring Lecture - Dr. Thomas R. Cech<br>
 Location: PSH-150<br>
@@ -27,6 +28,7 @@ Dr. Ricardo Garcia - Frontiers of Force Microscopy in Nanoscience and Nanotechno
 <br>
 
 ## News
+
 #### October 10, 2016
 Announcement of the Cryo-EM Workshop of the TEM Winter School at ASU. 
 
