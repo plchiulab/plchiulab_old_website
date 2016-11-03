@@ -42,6 +42,6 @@ The most exciting news in the cryo-EM field in recent years is the invention of 
 <br>
 <p align="center">
   <img src="images/research_06.png" width="950px">
-  <em>IQ-plot and projection maps of AQP0/cholesterol 2D crystal in grey and contour representations.</em>
+  <em>(A) Power spectrum and (B) IQ-plot of the AQP0/cholesterol 2D crystal image with its projectionn reconstruction in (C) grey and (D) contour representations.</em>
 </p>
 <br>
