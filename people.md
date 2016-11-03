@@ -6,6 +6,7 @@ title: People
 <br><br>
 
 ![Po-Lin Chiu](images/square-plc.png){:style="float: right; margin-left:10px; width:200px;"}
+
 #### Po-Lin Chiu, Ph.D.
 [plchiu@asu.edu](plchiu@asu.edu).
 
@@ -22,6 +23,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 <br><br>
 
 ![Du Chloe Truong](images/T.png){:style="float: right; margin-left:10px; width:200px;"}
+
 #### Du Chloe Truong
 [dktruong@asu.edu](dktruong@asu.edu).
 

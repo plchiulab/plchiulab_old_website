@@ -21,6 +21,7 @@ Kalbermatter, D., Jeckelmann, J.-M., **Chiu, P.-L.**, Ucurum, Z., Walz, T., and 
 -----
 
 **Chiu, P.-L.\***, Bou-Assaf, G.\*, Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. *Blood* **126**:935-938 (2015). (*equal contributions) <br>
+
 > Commentary in *Blood*: Krishnaswamy, S. FVIII-VWF dos-à-dos. *Blood* **126**:923-924 (2015). 
 
 -----
@@ -50,6 +51,7 @@ Paoli, E.-E., Kruse, D.E., Seo, J.W., Zhang, H., Kheirolomoom, A., Watson, K.D.,
 -----
 
 **Chiu, P.-L.**, Pagel, M.D., Evans, J.E., Chou, H.-T., Zeng, X., Gipson, B., Stahlberg, H., and Nimigean, C.M. The structure of the prokaryotic cyclic nucleotide-modulated potassium channel MloK1 at 16 Å resolution. *Structure* **15**:1053-1064 (2007). <br>
+
 > Feature in *Structure*: Taraska, J.W. and Zagotta, W. 2007. Cyclic nucleotide-regulated ion channel: Spotlight on symmetry. *Structure* **15**:1023-1024 (2007). 
 
 -----
