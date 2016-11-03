@@ -22,7 +22,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 <br><br>
 
-![Du Chloe Truong](images/T.png){:style="float: right; margin-left:10px; width:200px;"}
+![Du Chloe Truong](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Du Chloe Truong
 [dktruong@asu.edu](dktruong@asu.edu).

@@ -2,7 +2,7 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 400 14px/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; }
+body { font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -13,7 +13,7 @@ img { max-width: 100%; vertical-align: middle; }
 /** Figures */
 figure > img { display: block; }
 
-figcaption { font-size: 11.55px; }
+figcaption { font-size: 14px; }
 
 /** Lists */
 ul, ol { margin-left: 30px; }
@@ -59,7 +59,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .site-nav { float: right; line-height: 56px; }
 .site-nav .menu-icon { display: none; }
-.site-nav .page-link { color: #111; line-height: 1.45; }
+.site-nav .page-link { color: #111; line-height: 1.5; }
 .site-nav .page-link:not(:last-child) { margin-right: 20px; }
 @media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #fdfdfd; border: 1px solid #e8e8e8; border-radius: 5px; text-align: right; }
   .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; }
@@ -97,7 +97,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .post-list { margin-left: 0; list-style: none; }
 .post-list > li { margin-bottom: 30px; }
 
-.post-meta { font-size: 11.55px; color: #828282; }
+.post-meta { font-size: 14px; color: #828282; }
 
 .post-link { display: block; font-size: 24px; }
 
