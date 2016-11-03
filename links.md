@@ -59,3 +59,7 @@ title: Links
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
   
 - [Boost C++ library](http://www.boost.org)
+
+- High-performance computing
+  - Hardware
+    - [EXXACT Blog](http://exxactcorp.com/blog/)
