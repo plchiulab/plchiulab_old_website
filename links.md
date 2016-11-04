@@ -49,7 +49,7 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UCSF Chimera is a highly extensible program for interactive visualization and analysis of molecular structures and related data. 
 
 
-### Other programming resources
+### Computation resources
 - [Python](https://www.python.org)
   - [Cython](http://cython.org)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
@@ -65,3 +65,5 @@ title: Links
 - High-performance computing
   - Hardware
     - [EXXACT Blog](http://exxactcorp.com/blog/)
+  - Resource
+    - [ASU Research Computing](https://researchcomputing.asu.edu)
