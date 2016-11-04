@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-Leksa, N.C.\*, **Chiu, P.-L.\***, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of ... (*in preparation*).
+Leksa, N.C.\*, **Chiu, P.-L.\***, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of ... (\*equal contributions)(*in preparation*).
 
 -----
 
