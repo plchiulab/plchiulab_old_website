@@ -21,6 +21,9 @@ title: Links
 - [2DX](http://www.2dx.unibas.ch)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2dx is an initiative that aims at facilitating computer image processing in electron crystallography. 
 
+- [APBS & PDB2PQR](http://www.poissonboltzmann.org)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APBS (Adaptive Poisson-Boltzmann Solver) and PDB2PQR are software packages designed to help you analyze the solvation properties of small and macro-molecules such as proteins, nucleic acids, and other complex systems.
+
 - [CCP4](https://www.ccp4.ac.uk)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCP4 exists to produce and support a world-leading, integrated suite of programs that allows researchers to determine macromolecular structures by X-ray crystallography, and other biophysical techniques. 
 
