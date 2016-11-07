@@ -7,8 +7,10 @@ layout: first_page
 <br>
 
 ## Conferences and Meetings
-- 11/03/2016 - 11/04/2016: [SPIDER & Scipion: Image-processing of electron micrographs](http://www.cens.de/calendar/workshops-events/spider-scipion-workshop-image-processing-of-electron-micrographs/), Munich.
+- 01/16/2017 - 01/20/2017: [10th International Conference on Computational Physics](http://www.iccpx.org), Macao, China. 
 - 01/09/2017 - 01/11/2017: Cryo-EM Sample Preparation Workshop.  [Diamond Light Source](http://www.diamond.ac.uk/Home/Events/2017/EM-Workshop-2017.html).
+- 01/03/2017 - 01/07/2017: [Winter School](https://le-csss.asu.edu/winterschool) of HREM at ASU. 
+- 11/03/2016 - 11/04/2016: [SPIDER & Scipion: Image-processing of electron micrographs](http://www.cens.de/calendar/workshops-events/spider-scipion-workshop-image-processing-of-electron-micrographs/), Munich.
 
 <br>
 
