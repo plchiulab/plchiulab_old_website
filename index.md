@@ -16,6 +16,11 @@ layout: first_page
 
 ## Seminars
 
+#### November 16, 2016
+The Amyloid State of Proteins - Dr. David Eisenberg (UCLA)<br>
+Location: Goldwater 487<br>
+Time: 15-16
+
 #### November 3-4, 2016
 Eyring Lecture - Dr. Thomas R. Cech<br>
 Location: PSH-150<br>
