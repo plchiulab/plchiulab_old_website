@@ -24,7 +24,9 @@ Our lab use cryogenic electron microscopy (cryo-EM) method combined with other b
 
 <br>
 <p align="center">
-  <img src="images/research_03.png" width="1000px">
+  <!--<img src="images/research_03.png" width="1000px">-->
+  <img src="images/MloK1-open-close-1.gif" width="425px" align="left">
+  <img src="images/Chiu_2007_Structure.jpg" width="425px">
   <em>Negatively-stained MloK1 revealed by electron crystallography and single-particle reconstruction.</em>
 </p>
 <br>
