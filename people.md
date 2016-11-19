@@ -22,6 +22,21 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 <br><br>
 
+<!--![Yu-Ping Poh, Ph.D.](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
+
+#### Yu-Ping Poh, Ph.D.
+[elfinpoh](elfinpoh@gmail.com).
+
+Postdoctoral Fellow, Massachusetts Institute of Technology, Cambridge. <br>
+Postdoctoral Fellow, University of Massachusetts Medical School, Worcester. <br>
+Ph.D. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
+B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
+<br><br><br>
+
+-----
+
+<br><br>
+
 ![Du Chloe Truong](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Du Chloe Truong
@@ -30,4 +45,3 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 B.Sc. Biochemistry, Arizona State University, Tempe. <br>
 <br><br><br>
 
------
