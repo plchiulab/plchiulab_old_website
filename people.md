@@ -37,18 +37,6 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 
 <br><br>
 
-<!--![Kayvan Sharmsa](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
-
-#### Kayvan Shamsa
-[Kayvan.Shamsa@asu.edu](kayvan.shamsa@asu.edu).
-
-School of Molecular Sciences, Arizona State University, Tempe. <br>
-<br><br><br>
-
------
-
-<br><br>
-
 ![Du Chloe Truong](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Du Chloe Truong
