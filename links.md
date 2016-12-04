@@ -17,6 +17,12 @@ title: Links
 - [NRAMM](http://nramm.nysbc.org) (National Resource for Automated Molecular Microscopy)
 
 
+### Structural biology community
+- [Deutsches Elektronen-Synchrotron (DESY) - A Research Centre of the Helmholtz Association](http://www.desy.de/index_eng.html)
+- [Theoretical and Computational Biophysics Group @ UIUC](http://www.ks.uiuc.edu/)
+
+
+
 ### Software
 - [2DX](http://www.2dx.unibas.ch)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2dx is an initiative that aims at facilitating computer image processing in electron crystallography. 
