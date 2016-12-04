@@ -18,7 +18,7 @@ title: Links
 
 
 ### Structural biology community
-- [Deutsches Elektronen-Synchrotron (DESY) - A Research Centre of the Helmholtz Association](http://www.desy.de/index_eng.html)
+- [Deutsches Elektronen-Synchrotron (DESY)](http://www.desy.de/index_eng.html)
 - [Theoretical and Computational Biophysics Group @ UIUC](http://www.ks.uiuc.edu/)
 
 
