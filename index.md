@@ -7,6 +7,7 @@ layout: first_page
 <br>
 
 ## Conferences and Meetings
+- 03/19/2017 - 03/22/2017: [2017 West Coast Protein Crystallography Workshop](http://www.biochem.utah.edu/hill/wcpcw.html), Pacific Grove, CA. 
 - 01/16/2017 - 01/20/2017: [10th International Conference on Computational Physics](http://www.iccpx.org), Macao, China. 
 - 01/09/2017 - 01/11/2017: Cryo-EM Sample Preparation Workshop.  [Diamond Light Source](http://www.diamond.ac.uk/Home/Events/2017/EM-Workshop-2017.html).
 - 01/03/2017 - 01/07/2017: [Winter School](https://le-csss.asu.edu/winterschool) of HREM at ASU. 
