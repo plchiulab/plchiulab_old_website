@@ -24,6 +24,19 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 <!--![Yu-Ping Poh, Ph.D.](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
 
+#### Pushkar Desaraju
+[pdesaraj@asu.edu](pdesaraj@asu.edu).
+
+M.C.S. Computer Sciences, Arizona State University, Tempe. <br>
+B.Sc. Computer Sciences, JNTUH College of Engineering <br>
+<br><br><br>
+
+-----
+
+<br><br>
+
+<!--![Yu-Ping Poh, Ph.D.](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
+
 #### Yu-Ping Poh, Ph.D.
 [Yu-Ping.Poh@asu.edu](Yu-Ping.Poh@asu.edu).
 
