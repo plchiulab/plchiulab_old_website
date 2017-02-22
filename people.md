@@ -27,7 +27,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 #### Pushkar Desaraju
 [pdesaraj@asu.edu](pdesaraj@asu.edu).
 
-M.C.S. Computer Sciences, Arizona State University, Tempe. <br>
+M.CS. Computer Sciences, Arizona State University, Tempe. <br>
 B.Sc. Computer Sciences, JNTUH College of Engineering <br>
 <br><br><br>
 
