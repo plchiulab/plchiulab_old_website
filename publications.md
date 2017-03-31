@@ -4,6 +4,10 @@ title: Publications
 ---
 <br>
 
+Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Substrate release from the PTS ....  (2017). (\*equal contributions) (*submitted*)
+
+-----
+
 Leksa, N.C., **Chiu, P.-L.**, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of factor VIII and the long-acting variant rFVIIIFc. *J Thromb Haemost* (2017). (*accepted*)
 
 -----
@@ -12,7 +16,7 @@ Klara, S.S., Saboe, P.O., Sines, I.T., Babaei, M., **Chiu, P.-L.**, DeZorzi, R.,
 
 -----
 
-**Chiu, P.-L.\***, Li, X.\*, Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0. *J Struct Biol* **192**:163-173 (2015). (*equal contributions) 
+**Chiu, P.-L.\***, Li, X.\*, Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0. *J Struct Biol* **192**:163-173 (2015). (\*equal contributions) 
 
 -----
 
@@ -20,13 +24,13 @@ Kalbermatter, D., Jeckelmann, J.-M., **Chiu, P.-L.**, Ucurum, Z., Walz, T., and 
 
 -----
 
-**Chiu, P.-L.\***, Bou-Assaf, G.\*, Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. *Blood* **126**:935-938 (2015). (*equal contributions) <br>
+**Chiu, P.-L.\***, Bou-Assaf, G.\*, Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. *Blood* **126**:935-938 (2015). (\*equal contributions) <br>
 
 > Commentary in *Blood*: Krishnaswamy, S. FVIII-VWF dos-à-dos. *Blood* **126**:923-924 (2015). 
 
 -----
 
-Hite, R.K.\*, **Chiu, P.-L.\***, Schuller, J., and Walz, T. Effect of lipid head groups on double-layered two-dimensional crystals formed by aquaporin-0. *PLoS ONE* **10**:e0117371 (2015). (*equal contributions) 
+Hite, R.K.\*, **Chiu, P.-L.\***, Schuller, J., and Walz, T. Effect of lipid head groups on double-layered two-dimensional crystals formed by aquaporin-0. *PLoS ONE* **10**:e0117371 (2015). (\*equal contributions) 
 
 -----
 
