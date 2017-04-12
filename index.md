@@ -8,6 +8,7 @@ layout: first_page
 <br>
 
 ## Conferences and Meetings
+- 08/06/2017 - 08/10/2017: International Workshop of Advanced Image Processing of Cryo-Electron Microscopy, Beijing, China. 
 - 04/02/2017 - 04/06/2017: 253rd ACS National Meeting & Exposition, San Francisco, CA. 
 - 03/19/2017 - 03/22/2017: [2017 West Coast Protein Crystallography Workshop](http://www.biochem.utah.edu/hill/wcpcw.html), Pacific Grove, CA. 
 - 01/16/2017 - 01/20/2017: [10th International Conference on Computational Physics](http://www.iccpx.org), Macao, China. 
@@ -18,6 +19,11 @@ layout: first_page
 <br>
 
 ## Seminars
+
+#### April 12, 2017
+Solution NMR from a chemist's tool to solving protein structures - Dr. Gerhard Wagner (Harvard Medical School)<br>
+Location: PSH 150<br>
+Time: 18:30
 
 #### November 16, 2016
 The Amyloid State of Proteins - Dr. David Eisenberg (UCLA)<br>
