@@ -4,11 +4,11 @@ title: Publications
 ---
 <br>
 
-Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Substrate release from the PTS ....  (2017). (\*equal contributions) (*submitted*)
+Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Substrate release from the PTS IIC ....  (2017). (\*equal contributions) (*submitted*)
 
 -----
 
-Leksa, N.C., **Chiu, P.-L.**, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of factor VIII and the long-acting variant rFVIIIFc. *J Thromb Haemost* (2017). (*accepted*)
+Leksa, N.C., **Chiu, P.-L.**, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of factor VIII and the long-acting variant rFVIIIFc. *J Thromb Haemost* (2017). (*Epub ahead of print*)
 
 -----
 
