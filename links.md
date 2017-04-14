@@ -45,6 +45,9 @@ title: Links
 - [Frealign](http://grigoriefflab.janelia.org/frealign)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles. 
 
+- [Oxford Particle Imaging Centre](https://github.com/OPIC-Oxford)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository for Scipion, the scripts for local reconstruction, wrapped Python scripts for Relion, and so forth. 
+
 - [Phenix](https://www.phenix-online.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHENIX (Python-based Hierarchical ENvironment for Integrated Xtallography) is a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
 
