@@ -9,6 +9,7 @@ layout: first_page
 
 ## Conferences and Meetings
 - 08/06/2017 - 08/10/2017: International Workshop of Advanced Image Processing of Cryo-Electron Microscopy, Beijing, China. 
+- 05/13/2017 - 05/17/2017: [Understanding Biology through Structure in Santa Fe, NM.](https://conferences.newmexicoconsortium.org/conferences/ubts_17/program )
 - 04/02/2017 - 04/06/2017: 253rd ACS National Meeting & Exposition, San Francisco, CA. 
 - 03/19/2017 - 03/22/2017: [2017 West Coast Protein Crystallography Workshop](http://www.biochem.utah.edu/hill/wcpcw.html), Pacific Grove, CA. 
 - 01/16/2017 - 01/20/2017: [10th International Conference on Computational Physics](http://www.iccpx.org), Macao, China. 
@@ -19,6 +20,10 @@ layout: first_page
 <br>
 
 ## Seminars
+#### April 13, 2017
+Engineering phospholipid nanodiscs for membrane protein studies - Dr. Gerhard Wagner (Harvard Medical School)<br>
+Location: PSH 151<br>
+Time: 15:40
 
 #### April 12, 2017
 Solution NMR from a chemist's tool to solving protein structures - Dr. Gerhard Wagner (Harvard Medical School)<br>
