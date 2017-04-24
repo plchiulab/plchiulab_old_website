@@ -34,7 +34,7 @@ Hite, R.K.\*, **Chiu, P.-L.\***, Schuller, J., and Walz, T. Effect of lipid head
 
 -----
 
-Kowal, J., Chami, M., Baumgartner, P., Arheit, M., **Chiu, P.-L.**, Rangl, M., Scheuring, S., Nimigean, C.M., and Stahlberg, H. Ligand-induced structural changes in the cyclic nucleotide-modulated potassium channel MloK1. *Nature Comm* **5**:3106-3115 (2014). 
+Kowal, J., Chami, M., Baumgartner, P., Arheit, M., **Chiu, P.-L.**, Rangl, M., Scheuring, S., Nimigean, C.M., and Stahlberg, H. Ligand-induced structural changes in the cyclic nucleotide-modulated potassium channel MloK1. *Nat Commun* **5**:3106-3115 (2014). 
 
 -----
 
