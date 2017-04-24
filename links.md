@@ -82,3 +82,6 @@ title: Links
     - [EXXACT Blog](http://exxactcorp.com/blog/)
   - Resource
     - [ASU Research Computing](https://researchcomputing.asu.edu)
+
+- Scientific programming
+  - Wilson, G., Aruliah, D.A., Brown, C.T., Hong, N.P.C., Davis, M., Guy, R.T., Haddock, S.H.D., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., and Wilson, P. Best practices for scientific computing. _PLOS Biol_ **12**:e1001745 (2014). 
