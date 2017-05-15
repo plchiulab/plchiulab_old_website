@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Substrate release from the PTS IIC ....  (2017). (\*equal contributions) (*submitted*)
+Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. *J Struct Biol* (2017). (\*equal contributions) (*accepted*)
 
 -----
 
