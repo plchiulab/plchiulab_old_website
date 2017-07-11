@@ -4,11 +4,15 @@ title: Publications
 ---
 <br>
 
-Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. *J Struct Biol* (2017). (\*equal contributions) (*accepted*)
+Aryal, R.P.\*, Kwak, P.B.\*, Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. (accepted) (*equal contributions)
 
 -----
 
-Leksa, N.C., **Chiu, P.-L.**, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of factor VIII and the long-acting variant rFVIIIFc. *J Thromb Haemost* (2017). (*Epub ahead of print*)
+Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. *J Struct Biol* (2017). (\*equal contributions) (*Epub ahead of print*)
+
+-----
+
+Leksa, N.C., **Chiu, P.-L.**, Bou-Assaf, G.M., Quan, C., Liu, Z., Goodman, A.B., Chambers, M.G., Tsutakawa, S.E., Hammal, M., Peters, R.T., Walz, T., and Kulman, J.D. The structural basis for the functional comparability of factor VIII and the long-acting variant rFVIIIFc. *J Thromb Haemost* **15**:1167-1179 (2017). 
 
 -----
 
