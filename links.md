@@ -43,7 +43,10 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM. 
 
 - [Frealign](http://grigoriefflab.janelia.org/frealign)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles.
+
+- [Gautomatch & Gctf](http://www.mrc-lmb.cam.ac.uk/kzhang/) 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programs of automated particle picking and CTF estimation that utilizes the GPU resources. 
 
 - [OpenStructure](http://www.openstructure.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open-Source Computational Structural Biology Framework.  
