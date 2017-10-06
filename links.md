@@ -42,6 +42,9 @@ title: Links
 - [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM. 
 
+- [EMRinger](https://github.com/fraser-lab/EMRinger)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the set of scripts used for the EMRinger paper (citation below). For the most up-to-date version of EMRinger, please use phenix.emringer or the integrated GUI version of EMRinger in the latest phenix nightly.
+
 - [Frealign](http://grigoriefflab.janelia.org/frealign)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles.
 
