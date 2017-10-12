@@ -4,11 +4,11 @@ title: Publications
 ---
 <br>
 
-Aryal, R.P.\*, Kwak, P.B.\*, Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. (accepted) (*equal contributions)
+Aryal, R.P.\*, Kwak, P.B.\*, Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. *Mol Cell* **67**:770-782 (2017). (*equal contributions)
 
 -----
 
-Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. *J Struct Biol* (2017). (\*equal contributions) (*Epub ahead of print*)
+Kalbermatter, D.\*, **Chiu, P.-L.\***, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. *J Struct Biol* **199**:39 45 (2017). (\*equal contributions)
 
 -----
 
