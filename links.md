@@ -51,6 +51,9 @@ title: Links
 - [Gautomatch & Gctf](http://www.mrc-lmb.cam.ac.uk/kzhang/) 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programs of automated particle picking and CTF estimation that utilizes the GPU resources. 
 
+- [IPLT](http://www.iplt.org/) 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Image Processing Library & Toolbox is an open-source project, released under the GNU General Public License. It is primarily aimed at the electron microscopy community, with particular emphasis on 2D electron crystallography.  
+
 - [OpenStructure](http://www.openstructure.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open-Source Computational Structural Biology Framework.  
 
