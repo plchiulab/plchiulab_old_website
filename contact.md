@@ -13,7 +13,7 @@ Office: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1001 South McAllister Avenue<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biodesign Building A230A<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tempe, Arizona 85287<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;480.965.3176<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;480.727.2058<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plchiu@asu.edu
 
 Our lab is currently located in the Biodesign Building A235 and A239. <br>
