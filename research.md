@@ -40,7 +40,7 @@ Arizona State University (ASU) has a long history of international leadership in
 
 <br>
 <p align="center">
-  <img src="images/cf1fo-alpha_beta.png" width="400px" align="left">
+  <img src="images/cf1fo-alpha_beta.png" width="350px" align="left">
   <img src="images/cf1fo-c.png" width="550px">
   <em>Single-particle cryo-EM structure of an F-type ATP synthase (Left: F1 density; Right: transmembrane c-ring). </em>
 </p>
