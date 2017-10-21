@@ -36,6 +36,9 @@ title: Links
 - [CCP4](https://www.ccp4.ac.uk)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCP4 exists to produce and support a world-leading, integrated suite of programs that allows researchers to determine macromolecular structures by X-ray crystallography, and other biophysical techniques. 
 
+- [Computational Crystallography Toolbox (cctbx)](http://cctbx.sourceforge.net)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Computational Crystallography Toolbox (cctbx) is being developed as the open source component of the PHENIX system.  The goal of the PHENIX project is to advance automation of macromolecular structure determination. PHENIX depends on the cctbx, but not vice versa.  The cctbx is therefore also useful for small-molecule crystallography and even general scientific applications.
+
 - [ctffind, ctftilt](http://grigoriefflab.janelia.org/ctf)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CTFFIND3 and CTFTILT are two programs for finding CTFs of electron micrographs.
 
