@@ -87,6 +87,9 @@ title: Links
   - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
   
+  - [PyCUDA](https://mathema.tician.de/software/pycuda/)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyCUDA lets you access Nvidia‘s CUDA parallel computation API from Python.
+  
 - [Boost C++ library](http://www.boost.org)
 
 - High-performance computing
