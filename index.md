@@ -21,6 +21,12 @@ layout: first_page
 <br>
 
 ## Seminars
+#### October 27, 2017
+Multi-modal Imaging and Analysis of Quantum Materials - Dr. David C. Bell (School of Engineering and Applied Sciences,
+Harvard University)<br>
+Location: ERC 490<br>
+Time: 13:30
+
 #### April 13, 2017
 Engineering phospholipid nanodiscs for membrane protein studies - Dr. Gerhard Wagner (Harvard Medical School)<br>
 Location: PSH 151<br>
