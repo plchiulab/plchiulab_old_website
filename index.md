@@ -21,6 +21,11 @@ layout: first_page
 <br>
 
 ## Seminars
+#### October 30, 2017
+Type VII secretion in mycobacteria: towards its high-resolution structure - Dr. Matthias Wilmanns (EMBL Hamburg)<br>
+Location: Biodesign Auditorium<br>
+Time: 10:00
+
 #### October 27, 2017
 Multi-modal Imaging and Analysis of Quantum Materials - Dr. David C. Bell (School of Engineering and Applied Sciences,
 Harvard University)<br>
