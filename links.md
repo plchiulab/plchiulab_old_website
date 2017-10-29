@@ -105,5 +105,8 @@ title: Links
     - [ASU Research Computing](https://researchcomputing.asu.edu)
       - [Status of the local clusters](https://rcstatus.asu.edu/)
 
+- Utiilities in modeling
+  - [PDB tools by Joao Rodrigues](https://github.com/JoaoRodrigues/pdb-tools): Set of utility scripts in python to manipulate PDB files as streams.
+
 - Scientific programming
   - Wilson, G., Aruliah, D.A., Brown, C.T., Hong, N.P.C., Davis, M., Guy, R.T., Haddock, S.H.D., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., and Wilson, P. Best practices for scientific computing. _PLOS Biol_ **12**:e1001745 (2014). 
