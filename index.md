@@ -21,6 +21,11 @@ layout: first_page
 <br>
 
 ## Seminars
+#### November 2, 2017
+Laser-based contrast enhancement in electron microscopy - Dr. Holger Muller (UC Berkeley)<br>
+Location: PSF 101<br>
+Time: 16:00
+
 #### October 30, 2017
 Type VII secretion in mycobacteria: towards its high-resolution structure - Dr. Matthias Wilmanns (EMBL Hamburg)<br>
 Location: Biodesign Auditorium<br>
