@@ -25,16 +25,16 @@ title: Links
 
 ### Software
 - [2DX](http://www.2dx.unibas.ch)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2dx is an initiative that aims at facilitating computer image processing in electron crystallography. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2dx is an initiative that aims at facilitating computer image processing in electron crystallography.
 
 - [APBS & PDB2PQR](http://www.poissonboltzmann.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APBS (Adaptive Poisson-Boltzmann Solver) and PDB2PQR are software packages designed to help you analyze the solvation properties of small and macro-molecules such as proteins, nucleic acids, and other complex systems.
 
 - [Bsoft](https://lsbr.niams.nih.gov/bsoft/)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bsoft is a collection of programs and a platform for development of software for image  processing in structural biology. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bsoft is a collection of programs and a platform for development of software for image  processing in structural biology.
 
 - [CCP4](https://www.ccp4.ac.uk)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCP4 exists to produce and support a world-leading, integrated suite of programs that allows researchers to determine macromolecular structures by X-ray crystallography, and other biophysical techniques. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCP4 exists to produce and support a world-leading, integrated suite of programs that allows researchers to determine macromolecular structures by X-ray crystallography, and other biophysical techniques.
 
 - [cisTEM](https://cistem.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cisTEM is user-friendly software to process cryo-EM images of macromolecular complexes and obtain high-resolution 3D reconstructions from them. It was developed by Tim Grant, Alexis Rohou and Nikolaus Grigorieff and comprises a number of tools to process image data including movies, micrographs and stacks of single-particle images, implementing a complete “pipeline” of processing steps to obtain high-resolution single-particle reconstructions.  
@@ -43,13 +43,13 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Computational Crystallography Toolbox (cctbx) is being developed as the open source component of the PHENIX system.  
 
 - [cryoSPARC](https://cryosparc.com/)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CryoSPARC™ is an easy to use software tool that enables rapid, unbiased structure discovery of proteins and molecular complexes from cryo-EM data. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CryoSPARC™ is an easy to use software tool that enables rapid, unbiased structure discovery of proteins and molecular complexes from cryo-EM data.
 
 - [ctffind, ctftilt](http://grigoriefflab.janelia.org/ctf)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CTFFIND3 and CTFTILT are two programs for finding CTFs of electron micrographs.
 
 - [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM.
 
 - [EMRinger](https://github.com/fraser-lab/EMRinger)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the set of scripts used for the EMRinger paper (citation below). For the most up-to-date version of EMRinger, please use phenix.emringer or the integrated GUI version of EMRinger in the latest phenix nightly.
@@ -57,23 +57,26 @@ title: Links
 - [Frealign](http://grigoriefflab.janelia.org/frealign)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles.
 
-- [Gautomatch & Gctf](http://www.mrc-lmb.cam.ac.uk/kzhang/) 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programs of automated particle picking and CTF estimation that utilizes the GPU resources. 
+- [Gautomatch & Gctf](http://www.mrc-lmb.cam.ac.uk/kzhang/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programs of automated particle picking and CTF estimation that utilizes the GPU resources.
 
-- [IPLT](http://www.iplt.org/) 
+- [IPLT](http://www.iplt.org/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Image Processing Library & Toolbox is an open-source project, released under the GNU General Public License. It is primarily aimed at the electron microscopy community, with particular emphasis on 2D electron crystallography.  
 
 - [OpenStructure](http://www.openstructure.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open-Source Computational Structural Biology Framework.  
 
 - [Oxford Particle Imaging Centre](https://github.com/OPIC-Oxford)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository for Scipion, the scripts for local reconstruction, wrapped Python scripts for Relion, and so forth. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository for Scipion, the scripts for local reconstruction, wrapped Python scripts for Relion, and so forth.
 
 - [Phenix](https://www.phenix-online.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHENIX (Python-based Hierarchical ENvironment for Integrated Xtallography) is a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
 
 - [Relion](https://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RELION (for REgularised LIkelihood OptimisatioN) is a stand-alone program that employs an empirical Bayesian approach to refinement of (multiple) 3D reconstructions or 2D class averages in cryo-EM.   
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RELION (for REgularised LIkelihood OptimisatioN) is a stand-alone program that employs an empirical Bayesian approach to refinement of (multiple) 3D reconstructions or 2D class averages in cryo-EM.
+
+- [Rosetta](https://www.rosettacommons.org/docs/latest/Home)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rosetta is a comprehensive software suite for modeling macromolecular structures. As a flexible, multi-purpose application, it includes tools for structure prediction, design, and remodeling of proteins and nucleic acids.
 
 - [SerialEM](http://bio3d.colorado.edu/SerialEM/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SerialEM is a program that can acquire a variety of data from electron microscopes: tilt series for electron tomography, large image areas for 3-D reconstruction from serial sections, and images for reconstruction of macromolecules by single-particle methods.
@@ -82,7 +85,7 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPIDER (System for Processing Image Data from Electron microscopy and Related fields) is an image processing system for electron microscopy.
 
 - [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UCSF Chimera is a highly extensible program for interactive visualization and analysis of molecular structures and related data. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UCSF Chimera is a highly extensible program for interactive visualization and analysis of molecular structures and related data.
 
 
 ### Computation resources
@@ -92,13 +95,13 @@ title: Links
 
   - [matplotlib](http://matplotlib.org)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
-  
+
   - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This opinionated guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
-  
+
   - [PyCUDA](https://mathema.tician.de/software/pycuda/)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyCUDA lets you access Nvidia‘s CUDA parallel computation API from Python.
-  
+
 - [Boost C++ library](http://www.boost.org)
 
 - High-performance computing
@@ -113,4 +116,4 @@ title: Links
   - [PDB tools in harmslab](https://github.com/harmslab/pdbtools)
 
 - Scientific programming
-  - Wilson, G., Aruliah, D.A., Brown, C.T., Hong, N.P.C., Davis, M., Guy, R.T., Haddock, S.H.D., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., and Wilson, P. Best practices for scientific computing. _PLOS Biol_ **12**:e1001745 (2014). 
+  - Wilson, G., Aruliah, D.A., Brown, C.T., Hong, N.P.C., Davis, M., Guy, R.T., Haddock, S.H.D., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., and Wilson, P. Best practices for scientific computing. _PLOS Biol_ **12**:e1001745 (2014).
