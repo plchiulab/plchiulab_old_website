@@ -76,7 +76,7 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RELION (for REgularised LIkelihood OptimisatioN) is a stand-alone program that employs an empirical Bayesian approach to refinement of (multiple) 3D reconstructions or 2D class averages in cryo-EM.
 
 - [Rosetta](https://www.rosettacommons.org/docs/latest/Home)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rosetta is a comprehensive software suite for modeling macromolecular structures. As a flexible, multi-purpose application, it includes tools for structure prediction, design, and remodeling of proteins and nucleic acids.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rosetta is a comprehensive software suite for modeling macromolecular structures. As a flexible, multi-purpose application, it includes tools for structure prediction, design, and remodeling of proteins and nucleic acids.  (Rosetta Commons; https://www.rosettacommons.org)
 
 - [SerialEM](http://bio3d.colorado.edu/SerialEM/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SerialEM is a program that can acquire a variety of data from electron microscopes: tilt series for electron tomography, large image areas for 3-D reconstruction from serial sections, and images for reconstruction of macromolecules by single-particle methods.
