@@ -60,7 +60,7 @@ Paoli, E.-E., Kruse, D.E., Seo, J.W., Zhang, H., Kheirolomoom, A., Watson, K.D.,
 
 **Chiu, P.-L.**, Pagel, M.D., Evans, J.E., Chou, H.-T., Zeng, X., Gipson, B., Stahlberg, H., and Nimigean, C.M. The structure of the prokaryotic cyclic nucleotide-modulated potassium channel MloK1 at 16 Å resolution. *Structure* **15**:1053-1064 (2007). <br>
 
-> Feature in *Structure*: Taraska, J.W. and Zagotta, W. 2007. Cyclic nucleotide-regulated ion channel: Spotlight on symmetry. *Structure* **15**:1023-1024 (2007). 
+> Feature in *Structure*: Taraska, J.W. and Zagotta, W. Cyclic nucleotide-regulated ion channel: Spotlight on symmetry. *Structure* **15**:1023-1024 (2007). 
 
 -----
 
