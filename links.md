@@ -52,6 +52,9 @@ title: Links
 - [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM.
 
+- [EMBuilder](https://github.com/NiyunZhou/EMBuilder)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMBuilder is a model building program for cryo-EM density maps.  It is based on template matching method which is widely used in Crystallography.  The suitable resolution for input map is higher than 3.5 Å.
+
 - [EMRinger](https://github.com/fraser-lab/EMRinger)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the set of scripts used for the EMRinger paper (citation below). For the most up-to-date version of EMRinger, please use phenix.emringer or the integrated GUI version of EMRinger in the latest phenix nightly.
 
