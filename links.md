@@ -106,6 +106,9 @@ title: Links
   - [PyCUDA](https://mathema.tician.de/software/pycuda/)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyCUDA lets you access Nvidia‘s CUDA parallel computation API from Python.
 
+  - [PyQtGraph](http://www.pyqtgraph.org)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyQtGraph is a pure-python graphics and GUI library built on PyQt4, PySide and numpy. It is intended for use in mathematics, scientific, engineering applications. Despite being written entirely in python, the library is very fast due to its heavy leverage of numpy for number crunching and Qt's GraphicsView framework for fast display.
+
 - [Boost C++ library](http://www.boost.org)
 
 - High-performance computing
