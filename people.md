@@ -22,21 +22,6 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 <br><br>
 
-<!--![Yu-Ping Poh, Ph.D.](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
-
-#### Pushkar Desaraju
-[pdesaraj@asu.edu](pdesaraj@asu.edu).
-
-M.CS. Computer Sciences, Arizona State University, Tempe. <br>
-B.Sc. Computer Sciences, JNTUH College of Engineering <br>
-<br><br><br>
-
------
-
-<br><br>
-
-<!--![Yu-Ping Poh, Ph.D.](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
-
 #### Yu-Ping Poh, Ph.D.
 [Yu-Ping.Poh@asu.edu](Yu-Ping.Poh@asu.edu).
 
@@ -70,6 +55,9 @@ B.Sc. Biochemistry, Arizona State University, Tempe. <br>
 Ph.D. Biochemistry, Arizona State University, Tempe. <br>
 <br><br><br>
 
+-----
+##### Past members
+Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. 
 
 
 
