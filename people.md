@@ -25,7 +25,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 #### Purbasha Nandi
 [purbasha.nandi@asu.edu](purbasha.nandi@asu.edu).
 
-Indian Institute of Technology, Madras, India. <br>
+B.Sc. Chemistry, Indian Institute of Technology, Madras, India. <br>
 <br><br><br>
 
 -----
