@@ -42,6 +42,8 @@ Undergraduate researcher. <br>
 
 <br><br>
 
+![Yu-Ping Poh](images/square-ypp.png){:style="float: right; margin-left:10px; width:200px;"}
+
 #### Yu-Ping Poh, Ph.D.
 [Yu-Ping.Poh@asu.edu](Yu-Ping.Poh@asu.edu).
 
