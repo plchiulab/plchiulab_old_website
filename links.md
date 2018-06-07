@@ -28,6 +28,9 @@ title: Links
 - [2DX](http://www.2dx.unibas.ch)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2dx is an initiative that aims at facilitating computer image processing in electron crystallography.
 
+- [3D-FSC](https://3dfsc.salk.edu)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The 3D-FSC provides a quantitative measure of directional resolution anisotropy, which is caused by preferential orientation at the air-water interface, as described in Tan et al 2017.
+
 - [APBS & PDB2PQR](http://www.poissonboltzmann.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APBS (Adaptive Poisson-Boltzmann Solver) and PDB2PQR are software packages designed to help you analyze the solvation properties of small and macro-molecules such as proteins, nucleic acids, and other complex systems.
 
