@@ -5,6 +5,7 @@ layout: first_page
 
 # Welcome to Cryo-EM Laboratory!
 
+<img src="images/wordle.png" alt="wordle" width="400">
 <br>
 
 ## Conferences and Meetings
@@ -19,8 +20,6 @@ layout: first_page
 - 11/03/2016 - 11/04/2016: [SPIDER & Scipion: Image-processing of electron micrographs](http://www.cens.de/calendar/workshops-events/spider-scipion-workshop-image-processing-of-electron-micrographs/), Munich.
 
 <br>
-
-<img src="images/wordle.png" alt="wordle" width="400">
 
 
 ## Seminars
