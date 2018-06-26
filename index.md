@@ -20,6 +20,9 @@ layout: first_page
 
 <br>
 
+<img src="images/wordle.png" alt="wordle" width="400">
+
+
 ## Seminars
 #### November 2, 2017
 Laser-based contrast enhancement in electron microscopy - Dr. Holger Muller (UC Berkeley)<br>
