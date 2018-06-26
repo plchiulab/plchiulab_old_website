@@ -5,7 +5,7 @@ layout: first_page
 
 # Welcome to Cryo-EM Laboratory!
 
-<img src="images/wordle.png" alt="wordle" width="800">
+<img src="images/wordle.png" alt="wordle" align="middle" width="800">
 <br>
 
 ## Conferences and Meetings
