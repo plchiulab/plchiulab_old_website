@@ -46,6 +46,9 @@ title: Links
 - [Computational Crystallography Toolbox (cctbx)](http://cctbx.sourceforge.net)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Computational Crystallography Toolbox (cctbx) is being developed as the open source component of the PHENIX system.  
 
+- [cryo-EF](https://www.mrc-lmb.cam.ac.uk/crusso/index.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An open-source software package for robust analysis of the orientation distribution of cryoelectron microscopy data.
+
 - [cryoSPARC](https://cryosparc.com/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CryoSPARC™ is an easy to use software tool that enables rapid, unbiased structure discovery of proteins and molecular complexes from cryo-EM data.
 
@@ -60,6 +63,9 @@ title: Links
 
 - [EMRinger](https://github.com/fraser-lab/EMRinger)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the set of scripts used for the EMRinger paper (citation below). For the most up-to-date version of EMRinger, please use phenix.emringer or the integrated GUI version of EMRinger in the latest phenix nightly.
+
+- [Fitmunk](https://fitmunk.bitbucket.io/?)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fitmunk provides a framework for fitting conformations on a fixed backbone into electron density.
 
 - [Frealign](http://grigoriefflab.janelia.org/frealign)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frealign is a program for high-resolution refinement of 3D reconstructions from cryo-EM images of single particles.
