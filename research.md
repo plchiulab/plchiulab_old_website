@@ -32,7 +32,7 @@ Our lab use cryogenic electron microscopy (cryo-EM) method combined with other b
 <br>
 
 
-When neuron encounters an axonal injury, the oligodendrocyte expresses the myelin-associated inhibitors (MAI) that are transported to the plasma membranes, and the exposed MAIs will acutely inhibit the axonal regeneration of the injured neuron to maintain its plasticity.  These MAIs are also correlated with immune actions.  To understand the structural relationship and the interactions between these MAIs and their receptors help us develop a medical strategy to treat the diseases related to the axonal regeneration. 
+When neuron encounters an axonal injury, the oligodendrocyte expresses the myelin-associated inhibitors (MAI) that are transported to the plasma membranes, and the exposed MAIs will acutely inhibit the axonal regeneration of the injured neuron to maintain its plasticity.  These MAIs are also correlated with immune actions.  To understand the structural relationship and the interactions between these MAIs and their receptors help us develop a medical strategy to treat the diseases related to the axonal regeneration.  Secondly, we are also interested in looking at the p75-mediated neuronal control of cell survival and apoptosis. 
 
 
 Arizona State University (ASU) has a long history of international leadership in the field of electron microscopy. The Center for High Resolution Electron Microscopy, established as a National Science Foundation (NSF) Regional Center by Professor John M. Cowley in 1980, currently houses three aberration-corrected transmission electron microscopes (TEMs) and one Titan Krios TEM.  The existing resources for structural biology studies on the campus include the Magnetic Resonance Research Center (MRRC),  the College of Liberal Arts and Sciences (CLAS) Electron Paramagnetic Resonance (EPR), and the CLAS-EM Facility.  Additionally, ASU has pioneering research groups in the field of X-ray free electron lasers (XFEL) and femtosecond nanocrystallography.  The Center for Applied Structural Discovery (CASD) at the Biodesign Institute is currently building the world’s first high energy compact Free Electron Laser in collaboration with Massachusetts Institute of Technology, which will be hosted in the basement of the new Biodesign C building.  
@@ -43,6 +43,13 @@ Arizona State University (ASU) has a long history of international leadership in
   <img src="images/cf1fo-alpha_beta.png" width="350px" align="left">
   <img src="images/cf1fo-c.png" width="550px">
   <em>Single-particle cryo-EM structure of an F-type ATP synthase (Left: F1 density; Right: transmembrane c-ring). </em>
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img src="images/demo-den.png" width="1000px">
+  <em>Single-particle cryo-EM density of an ATPase.</em>
 </p>
 <br>
  
