@@ -63,7 +63,7 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 
 <br><br>
 
-![Du Chloe Truong](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}
+![Du Chloe Truong](images/img_1486.jpg){:style="float: right; margin-left:10px; height:200px;"}
 
 #### Du Chloe Truong
 [dktruong@asu.edu](dktruong@asu.edu).
