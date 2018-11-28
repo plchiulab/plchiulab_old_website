@@ -86,8 +86,9 @@ Ph.D. Biochemistry, Arizona State University, Tempe. <br>
 
 -----
 ##### Past members
-Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
-Sanna Naveed
+2018 Summer - Sanna Naveed
+2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
+
 
 
 
