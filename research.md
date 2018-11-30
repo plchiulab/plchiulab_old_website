@@ -47,7 +47,7 @@ Arizona State University (ASU) has a long history of international leadership in
 <br>
 <br>
 <p align="center">
-  <img src="images/demo-den.png" width="800px">
+  <img src="images/demo-den.png" width="400px">
   <em>Single-particle cryo-EM density of an ATPase.</em>
 </p>
 <br>
