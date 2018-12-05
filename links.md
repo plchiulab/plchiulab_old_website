@@ -35,6 +35,9 @@ title: Links
 - [CCP-EM](http://www.ccpem.ac.uk)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Collaborative Computational Project for electron cryo-microscopy (CCP-EM) supports users and developers in biological EM. 
 
+- [CNS](http://cns-online.org/v1.3/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystallography & NMR System (CNS) is the result of an international collaborative effort among several research groups. The program has been designed to provide a flexible multi-level hierachical approach for the most commonly used algorithms in macromolecular structure determination.  
+
 - [Computational Crystallography Toolbox (cctbx)](http://cctbx.sourceforge.net)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Computational Crystallography Toolbox (cctbx) is being developed as the open source component of the PHENIX system.  
 
@@ -56,11 +59,20 @@ title: Links
 - [Gautomatch & Gctf](http://www.mrc-lmb.cam.ac.uk/kzhang/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programs of automated particle picking and CTF estimation that utilizes the GPU resources.
 
+- [Gromacs](http://www.gromacs.org/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
+
+- [Modeller](https://salilab.org/modeller/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODELLER is used for homology or comparative modeling of protein three-dimensional structures.
+
 - [MotionCor2](http://msg.ucsf.edu/em/software/motioncor2.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The multi-GPU accelerated program, MotionCor2, is sufficiently fast to keep up with automated data collection. The result is an exceptionally robust strategy that can work on a wide range of data sets, including those very close to focus or with very short integration times, obviating the need for particle polishing.
 
 - [Oxford Particle Imaging Centre](https://github.com/OPIC-Oxford)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository for Scipion, the scripts for local reconstruction, wrapped Python scripts for Relion, and so forth.
+
+- [PyMOL](https://pymol.org/2/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyMOL is a user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
 
 - [SerialEM](http://bio3d.colorado.edu/SerialEM/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SerialEM is a program that can acquire a variety of data from electron microscopes: tilt series for electron tomography, large image areas for 3-D reconstruction from serial sections, and images for reconstruction of macromolecules by single-particle methods.
