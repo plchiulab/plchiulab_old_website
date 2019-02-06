@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Membrane protein act as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  Our lab interests are the **structures and functions of membrane proteins**, particularly in the context of membrane bilayers.  We are tackling the fundamental questions about: 
+Membrane protein acts as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  Our lab interests are the **structures and functions of membrane proteins**, particularly in the context of membrane bilayers.  We are tackling the fundamental questions about: 
   
   
 - How does membrane protein sense the environmental change and respond in a functional or structural change? 
@@ -19,7 +19,7 @@ Membrane protein act as a gate keeper or a diode in the cell membranes, which pl
 <br>
 
 
-Our lab use cryogenic electron microscopy (cryo-EM) method combined with other biochemical and biophysical approaches, such as lipid nanodiscs technique, to probe the membrane protein structure in its native-like environment.  We are also capable of using **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects) or **single-particle cryo-EM** to study the interaction of protein with membrane lipids at high resolution.  We initially focus on  the receptor complex structure of the inhibitory signaling of axonal regeneration.  
+Our lab use electron cryogenic microscopy (cryo-EM) method combined with other biochemical and biophysical approaches, such as the lipid nanodisc technique, to probe the membrane protein structure in its native-like environment.  We are also capable of using **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects) or **single-particle cryo-EM** to study the interaction of protein with membrane lipids at high resolution.  We initially focus on  the receptor complex structure of the inhibitory signaling of axonal regeneration.  
 
 
 <br>
