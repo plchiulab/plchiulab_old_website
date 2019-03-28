@@ -37,6 +37,13 @@ When neuron encounters an axonal injury, the oligodendrocyte expresses the myeli
 
 Arizona State University (ASU) has a long history of international leadership in the field of electron microscopy. The Center for High Resolution Electron Microscopy, established as a National Science Foundation (NSF) Regional Center by Professor John M. Cowley in 1980, currently houses three aberration-corrected transmission electron microscopes (TEMs) and one Titan Krios TEM.  The existing resources for structural biology studies on the campus include the Magnetic Resonance Research Center (MRRC),  the College of Liberal Arts and Sciences (CLAS) Electron Paramagnetic Resonance (EPR), and the CLAS-EM Facility.  Additionally, ASU has pioneering research groups in the field of X-ray free electron lasers (XFEL) and femtosecond nanocrystallography.  The Center for Applied Structural Discovery (CASD) at the Biodesign Institute is currently building the world’s first high energy compact Free Electron Laser in collaboration with Massachusetts Institute of Technology, which will be hosted in the basement of the new Biodesign C building.  
 
+<br>
+<p align="center">
+  <!--<img src="images/research_03.png" width="1000px">-->
+  <img src="images/sortilin.png" width="350px">
+  <em>Receptor complex of pro-NGF-p75NTR-sortilin.</em>
+</p>
+<br>
 
 <br>
 <p align="center">
