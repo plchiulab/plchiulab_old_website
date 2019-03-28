@@ -40,7 +40,7 @@ Arizona State University (ASU) has a long history of international leadership in
 <br>
 <p align="center">
   <!--<img src="images/research_03.png" width="1000px">-->
-  <img src="images/sortilin.png" width="350px">
+  <img src="images/sortilin.png" width="600px">
   <em>Receptor complex of pro-NGF-p75NTR-sortilin.</em>
 </p>
 <br>
