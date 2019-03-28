@@ -68,6 +68,9 @@ Dr. Ricardo Garcia - Frontiers of Force Microscopy in Nanoscience and Nanotechno
 <br>
 
 ## News
+#### March 19, 2019
+Chloe passes the oral examination and becomes the Ph.D. candidate. 
+
 #### December 11, 2018
 Announcement of the Cryo-EM Workshop of the TEM Winter School at ASU. 
 
