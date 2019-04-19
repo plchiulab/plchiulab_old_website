@@ -4,6 +4,10 @@ title: Publications
 ---
 <br>
 
+Toporik, H., Li, J., Williams, D., **Chiu, P.-L.**, and Mazor, Y. The structure of the photosys-tem I IsiA super-complex. *Nat Struct Mole Biol* (2019). (*accepted*)
+
+-----
+
 Aryal, R.P.\*, Kwak, P.B.\*, Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. *Mol Cell* **67**:770-782 (2017). (*equal contributions)
 
 -----
