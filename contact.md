@@ -18,5 +18,7 @@ Office: <br>
 
 Our lab is currently located in the Biodesign Building C388. <br>
 
-Lab equipment: Ultracentrifuge, incubators for insect and mammalian cell culture, AKTÅ FPLC, AKTÅ Start, Shimazu UPLC system, four GPU workstations for high-performance computing. <br>
+Lab equipment: Ultracentrifuge, incubators for insect and mammalian cell culture, AKTÅ FPLC, AKTÅ Start, Shimazu UPLC system, voltage generator with oscilloscopes, and four GPU workstations for high-performance computing. <br>
+
+TEM facility (frequently accessed): one Thermo Fischer/FEI Vitrobot Mark IV automated plunger, one Philips CM12 TEM, two FEI Tecnai TF20 TEM, one FEI aberration-corrected Environmental Titan TEM, and one Thermo Fisher/FEI Titan Krios TEM. <br>
 
