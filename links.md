@@ -33,7 +33,7 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bsoft is a collection of programs and a platform for development of software for image  processing in structural biology.
 
 - [CCP-EM](http://www.ccpem.ac.uk)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Collaborative Computational Project for electron cryo-microscopy (CCP-EM) supports users and developers in biological EM. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Collaborative Computational Project for electron cryo-microscopy (CCP-EM) supports users and developers in biological EM.
 
 - [CNS](http://cns-online.org/v1.3/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystallography & NMR System (CNS) is the result of an international collaborative effort among several research groups. The program has been designed to provide a flexible multi-level hierachical approach for the most commonly used algorithms in macromolecular structure determination.  
@@ -70,6 +70,9 @@ title: Links
 
 - [Oxford Particle Imaging Centre](https://github.com/OPIC-Oxford)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository for Scipion, the scripts for local reconstruction, wrapped Python scripts for Relion, and so forth.
+
+- [ProSHADE](https://www2.mrc-lmb.cam.ac.uk/groups/murshudov/content/proshade/proshade.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ProSHADE (Proitein SHApe DEscription and symmetry detection) is a library and an associated tool providing functionalities for working with structural biology molecular structures. The library implements functions for computing shape-wise structural distances between pairs of molecules, detecting symmetry over the centre of mass of a single structure, map re-sizing as well as matching density maps and PDB coordinate files into one another.
 
 - [PyMOL](https://pymol.org/2/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyMOL is a user-sponsored molecular visualization system on an open-source foundation, maintained and distributed by Schrödinger.
@@ -129,7 +132,7 @@ title: Links
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RELION (for REgularised LIkelihood OptimisatioN) is a stand-alone program that employs an empirical Bayesian approach to refinement of (multiple) 3D reconstructions or 2D class averages in cryo-EM.
 
 - [Scipion](https://github.com/I2PC/scipion/wiki)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scipion is an image processing framework for obtaining 3D models of macromolecular complexes using Electron Microscopy (3DEM). It integrates several software packages and presents a unified interface for both biologists and developers. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scipion is an image processing framework for obtaining 3D models of macromolecular complexes using Electron Microscopy (3DEM). It integrates several software packages and presents a unified interface for both biologists and developers.
 
 - [THUNDER](https://github.com/thuem/THUNDER)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A particle-filter framework for robust cryoEM 3D reconstruction.
