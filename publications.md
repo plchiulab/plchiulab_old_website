@@ -4,7 +4,17 @@ title: Publications
 ---
 <br>
 
-Toporik, H., Li, J., Williams, D., **Chiu, P.-L.**, and Mazor, Y. The structure of the photosystem I IsiA super-complex. *Nat Struct Mole Biol* (2019). (*accepted*)
+Chen, K.-Y., Poh, Y.-P., and **Chiu, P.-L.**. (2019). *(submitted)* 
+
+-----
+
+
+Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A.S., **Chiu, P.-L.**, Õsawa, E., Nunn, N., Shenderova, O., and Dwyer, C. (2019). *(submitted)* 
+
+-----
+
+
+Toporik, H., Li, J., Williams, D., **Chiu, P.-L.**, and Mazor, Y. The structure of the photosystem I IsiA super-complex. *Nat Struct Mole Biol* **26**:443-449 (2019). 
 
 -----
 
