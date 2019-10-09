@@ -72,20 +72,8 @@ B.Sc. Biochemistry, Arizona State University, Tempe. <br>
 <br><br><br>
 
 -----
-
-<br><br>
-
-<!--![Kayvan Sharmsa](images/img_1486.jpg){:style="float: right; margin-left:10px; width:200px;"}-->
-
-#### Jay-How Yang, Ph.D.
-[Jay-How.Yang@asu.edu](Jay-How.Yang@asu.edu).
-
-Ph.D. Biochemistry, Arizona State University, Tempe. <br>
-<br><br><br>
-<br><br><br>
-
------
 ##### Past members
+2019 Summer - Jay-How Yang - BCASD, CASU. <br>
 2018 Summer - Sanna Naveed. <br>
 2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
 
