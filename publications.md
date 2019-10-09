@@ -16,6 +16,9 @@ Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A
 
 -----
 
+Steber, H.S., Gallante, C., **Chiu, P.-L.**, and Mangone, M. The *C. elegans* 3'UTRome V2: an updated genomic resource to study 3'UTR biology. *Genome Research* (*accepted*).
+
+-----
 
 Toporik, H., Li, J., Williams, D., **Chiu, P.-L.**, and Mazor, Y. The structure of the photosystem I IsiA super-complex. *Nat Struct Mole Biol* **26**:443-449 (2019). 
 
