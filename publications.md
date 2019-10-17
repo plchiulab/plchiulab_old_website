@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-Chen, K.-Y., Poh, Y.-P., and **Chiu, P.-L.**. (2019). *(submitted)* 
+Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A.S., **Chiu, P.-L.**, Õsawa, E., Nunn, N., Shenderova, O., and Dwyer, C. (2019). *(submitted)* 
 
 -----
 
@@ -12,7 +12,7 @@ Yang, J.-Y., Williams, D., Fromme, P.\*, and **Chiu, P.-L.**\*. (2019). *(submit
 
 -----
 
-Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A.S., **Chiu, P.-L.**, Õsawa, E., Nunn, N., Shenderova, O., and Dwyer, C. (2019). *(submitted)* 
+Chen, K.-Y., Poh, Y.-P., and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. (2019). *(submitted)* 
 
 -----
 
