@@ -73,7 +73,7 @@ B.Sc. Biochemistry, Arizona State University, Tempe. <br>
 
 -----
 ##### Past members
-2019 Summer - Jay-How Yang - BCASD, CASU. <br>
+2019 Summer - Jay-How Yang - BCASD, ASU. <br>
 2018 Summer - Sanna Naveed. <br>
 2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
 

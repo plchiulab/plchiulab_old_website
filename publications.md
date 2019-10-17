@@ -16,7 +16,7 @@ Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A
 
 -----
 
-Steber, H.S., Gallante, C., **Chiu, P.-L.**, and Mangone, M. The *C. elegans* 3'UTRome V2: an updated genomic resource to study 3'UTR biology. *Genome Research* (*accepted*).
+Steber, H.S., Gallante, C., **Chiu, P.-L.**, and Mangone, M. The *C. elegans* 3'UTRome V2: an updated genomic resource to study 3'UTR biology. *Genome Research* (2019) (*accepted*).
 
 -----
 
