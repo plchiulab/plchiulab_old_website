@@ -16,7 +16,7 @@ Yang, J.-Y., Williams, D., Fromme, P.\*, and **Chiu, P.-L.**\*. (2019). *(revisi
 
 -----
 
-Robertson, K.E., Craciunescu, F.M., __Truong, C.D.__, **Chiu, P.-L.**, Fromme, P., and Hansen, D.T. (2019). (*revision*)
+Robertson, K.E., Craciunescu, F.M., __Truong, C.D.__, **Chiu, P.-L.**, Fromme, P., and Hansen, D.T. Membrane directed expression in *Escherichia coli* of BBA57 and other virulence factors from teh Lyme disease agent *orrelia burgdorfeni*. *Sci Rep* (2019). (*accepted*)
 
 -----
 
