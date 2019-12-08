@@ -16,15 +16,15 @@ Yang, J.-Y., Williams, D., Fromme, P.\*, and **Chiu, P.-L.**\*. (2019). *(revisi
 
 -----
 
-Robertson, K.E., Craciunescu, F.M., __Truong, C.D.__, **Chiu, P.-L.**, Fromme, P., and Hansen, D.T. Membrane directed expression in *Escherichia coli* of BBA57 and other virulence factors from teh Lyme disease agent *orrelia burgdorfeni*. *Sci Rep* (2019). (*accepted*)
+__Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. (2019). (*accepted*)
 
 -----
 
-__Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. (2019). (*accepted*) 
+Robertson, K.E., Craciunescu, F.M., __Truong, C.D.__, **Chiu, P.-L.**, Fromme, P., and Hansen, D.T. Membrane directed expression in *Escherichia coli* of BBA57 and other virulence factors from teh Lyme disease agent *orrelia burgdorfeni*. *Sci Rep* **9**:1-15 (2019).  
 
 -----
 
-Steber, H.S., Gallante, C., **Chiu, P.-L.**, and Mangone, M. The *C. elegans* 3'UTRome V2: an updated genomic resource to study 3'UTR biology. *Genome Research* (2019) (*accepted*).
+Steber, H.S., Gallante, C., **Chiu, P.-L.**, and Mangone, M. The *C. elegans* 3'UTRome V2: an updated genomic resource to study 3'UTR biology. *Genome Research* **29**:2104-2116 (2019).
 
 -----
 
