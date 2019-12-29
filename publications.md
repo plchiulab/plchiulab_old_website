@@ -4,19 +4,19 @@ title: Publications
 ---
 <br>
 
-Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2019). *(submitted)*
+Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2020). *(submitted)*
 
 -----
 
-Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A.S., **Chiu, P.-L.**, Õsawa, E., Nunn, N., Shenderova, O., and Dwyer, C. (2019). *(revision)* 
+Chang, S.L.Y., Williams, D., Roldan, M.A., Soignard, E., Opletal, G., Barnard, A.S., **Chiu, P.-L.**, Õsawa, E., Nunn, N., Shenderova, O., and Dwyer, C. (2020). *(revision)* 
 
 -----
 
-Yang, J.-Y., Williams, D., Fromme, P.\*, and **Chiu, P.-L.**\*. (2019). *(revision)* 
+Yang, J.-Y., Williams, D., Fromme, P.\*, and **Chiu, P.-L.**\*. (2020). *(revision)* 
 
 -----
 
-__Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. (2019). (*accepted*)
+__Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. (2020). (*accepted*)
 
 -----
 
