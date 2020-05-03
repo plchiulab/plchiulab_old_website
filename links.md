@@ -62,6 +62,9 @@ title: Links
 - [Gromacs](http://www.gromacs.org/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
 
+- [Martini](http://cgmartini.nl/index.php)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Martini force field is a coarse-grain (CG) force field suited for molecular dynamics simulations of biomolecular systems. The force field has been parametrized in a systematic way, combining top-down and bottum-up strategies: Non-bonded interactions are based on the reproduction of experimental partitioning free energies between polar and apolar phases of a large number of chemical compounds, whereas bonded interactions are derived from reference all-atom simulations.
+
 - [Modeller](https://salilab.org/modeller/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODELLER is used for homology or comparative modeling of protein three-dimensional structures.
 
