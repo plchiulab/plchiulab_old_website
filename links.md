@@ -50,23 +50,11 @@ title: Links
 - [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM.
 
-- [EMRinger](https://github.com/fraser-lab/EMRinger)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the set of scripts used for the EMRinger paper (citation below). For the most up-to-date version of EMRinger, please use phenix.emringer or the integrated GUI version of EMRinger in the latest phenix nightly.
-
 - [Focus](https://focus.c-cina.unibas.ch/about.php)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interface between data collection and data processing in cryo-EM.
 
 - [Gautomatch & Gctf](http://www.mrc-lmb.cam.ac.uk/kzhang/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The programs of automated particle picking and CTF estimation that utilizes the GPU resources.
-
-- [Gromacs](http://www.gromacs.org/)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
-
-- [Martini](http://cgmartini.nl/index.php)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Martini force field is a coarse-grain (CG) force field suited for molecular dynamics simulations of biomolecular systems. The force field has been parametrized in a systematic way, combining top-down and bottum-up strategies: Non-bonded interactions are based on the reproduction of experimental partitioning free energies between polar and apolar phases of a large number of chemical compounds, whereas bonded interactions are derived from reference all-atom simulations.
-
-- [Modeller](https://salilab.org/modeller/)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODELLER is used for homology or comparative modeling of protein three-dimensional structures.
 
 - [MotionCor2](http://msg.ucsf.edu/em/software/motioncor2.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The multi-GPU accelerated program, MotionCor2, is sufficiently fast to keep up with automated data collection. The result is an exceptionally robust strategy that can work on a wide range of data sets, including those very close to focus or with very short integration times, obviating the need for particle polishing.
@@ -105,11 +93,20 @@ title: Links
 - [CCP4](https://www.ccp4.ac.uk)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCP4 exists to produce and support a world-leading, integrated suite of programs that allows researchers to determine macromolecular structures by X-ray crystallography, and other biophysical techniques.
 
+- [CMCD in Gromacs](https://www.mpibpc.mpg.de/grubmueller/densityfitting)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We present a correlation-driven molecular dynamics (CDMD) method for automated refinement of atomistic models into cryo-electron microscopy (cryo-EM) maps at resolutions ranging from near-atomic to subnanometer. It utilizes a chemically accurate force field and thermodynamic sampling to improve the real-space correlation between the modeled structure and the cryo-EM map.
+
 - [EMBuilder](https://github.com/NiyunZhou/EMBuilder)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMBuilder is a model building program for cryo-EM density maps.  It is based on template matching method which is widely used in Crystallography.  The suitable resolution for input map is higher than 3.5 Å.
 
+- [EMRinger](https://github.com/fraser-lab/EMRinger)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the set of scripts used for the EMRinger paper (citation below). For the most up-to-date version of EMRinger, please use phenix.emringer or the integrated GUI version of EMRinger in the latest phenix nightly.
+
 - [Fitmunk](https://fitmunk.bitbucket.io/?)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fitmunk provides a framework for fitting conformations on a fixed backbone into electron density.
+
+- [Modeller](https://salilab.org/modeller/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODELLER is used for homology or comparative modeling of protein three-dimensional structures.
 
 - [OpenStructure](http://www.openstructure.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open-Source Computational Structural Biology Framework.  
@@ -139,6 +136,14 @@ title: Links
 
 - [THUNDER](https://github.com/thuem/THUNDER)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A particle-filter framework for robust cryoEM 3D reconstruction.
+
+
+### Molecular simulations
+- [Gromacs](http://www.gromacs.org/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
+
+- [Martini](http://cgmartini.nl/index.php)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Martini force field is a coarse-grain (CG) force field suited for molecular dynamics simulations of biomolecular systems. The force field has been parametrized in a systematic way, combining top-down and bottum-up strategies: Non-bonded interactions are based on the reproduction of experimental partitioning free energies between polar and apolar phases of a large number of chemical compounds, whereas bonded interactions are derived from reference all-atom simulations.
 
 
 ### Computation resources
