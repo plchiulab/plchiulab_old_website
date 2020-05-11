@@ -117,6 +117,9 @@ title: Links
 - [Rosetta](https://www.rosettacommons.org/docs/latest/Home)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rosetta is a comprehensive software suite for modeling macromolecular structures. As a flexible, multi-purpose application, it includes tools for structure prediction, design, and remodeling of proteins and nucleic acids.  (Rosetta Commons; https://www.rosettacommons.org)
 
+- [TomoSegMemTV](https://sites.google.com/site/3demimageprocessing/tomosegmemtv)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TomoSegMemTV is a software package for segmenting membranes in tomograms. It is based on (1) a Gaussian-like model of membrane profile, (2) a local differential structure approach and (3) anisotropic propagation of the local structural information using the tensor voting algorithm. The local structure at each voxel is refined according to the information received from other voxels. Because voxels belonging to the same membrane have coherent structural information, the underlying global structure is strengthened. In this way, local information is easily integrated at a global scale to yield segmented structures.The method performs well under low signal-to-noise ratio typically found in tomograms of vitrified samples under cryo-tomography conditions and can bridge gaps present on membranes. The software TomoSegMemTV is provided as a set of Matlab functions. The kernels of the most computationaly intensive operations were coded in C++ using code optimization and multithreading and are provided as binaries to be used within Matlab. The software TomoSegMemTV is also provided as a standalone package (that is, not dependent on Matlab).
+
 
 ### Cryo-EM density refinement package
 - [cisTEM](https://cistem.org)
