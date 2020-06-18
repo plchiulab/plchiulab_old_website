@@ -63,7 +63,6 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 
 <br><br>
 
-![Ryan Puskar]
 
 #### Ryan Puskar
 [rpuskar@asu.edu](rpuskar@asu.edu).
@@ -87,7 +86,6 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 
 <br><br>
 
-![Lanshen Zhao]
 
 #### Lashen Zhao
 
