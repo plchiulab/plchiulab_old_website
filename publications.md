@@ -20,7 +20,7 @@ __Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and dat
 
 -----
 
-Chang, S.L.Y., Reineck, P., Williams, D., Bryant, G., Opletal, G., El-Demrdash, S.A., **Chiu, P.-L.**, Õsawa, E., Barnard, A.S., and Dwyer, C. Dynamic self-assembly of detonation nanodiamond in water. (2020). *Nanoscale* **12**:5363-5367.  
+Chang, S.L.Y., Reineck, P., Williams, D., Bryant, G., Opletal, G., El-Demrdash, S.A., **Chiu, P.-L.**, Õsawa, E., Barnard, A.S., and Dwyer, C. Dynamic self-assembly of detonation nanodiamond in water. *Nanoscale* **12**:5363-5367. (2020).  
 
 -----
 

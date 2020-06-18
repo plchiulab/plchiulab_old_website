@@ -63,15 +63,40 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 
 <br><br>
 
+![Ryan Puskar]
+
+#### Ryan Puskar
+[rpuskar@asu.edu](rpuskar@asu.edu).
+
+B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
+<br><br><br>
+
+-----
+
+<br><br>
+
 ![Du Chloe Truong](images/img_1486_sq.png){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Du Chloe Truong
 [dktruong@asu.edu](dktruong@asu.edu).
 
-B.Sc. Biochemistry, Arizona State University, Tempe. <br>
+B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 <br><br><br>
 
 -----
+
+<br><br>
+
+![Lanshen Zhao]
+
+#### Lashen Zhao
+
+B.Sc. College of Life Sciences, Wuhan University, Wuhan, China. <br>
+<br><br><br>
+
+-----
+
+
 ##### Past members
 2019 Summer - Jay-How Yang - BCASD, ASU. <br>
 2018 Summer - Sanna Naveed. <br>
