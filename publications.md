@@ -4,11 +4,15 @@ title: Publications
 ---
 <br>
 
+Truong, C.D., and Poh, Y.-P., and **Chiu, P.-L.** (2020). *(submitted)*
+
+-----
+
 Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2020). *(submitted)*
 
 -----
 
-Yang, J.-Y., Williams, D., Fromme, P.\*, and **Chiu, P.-L.**\*. (2020). *(revision)* 
+Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. (2020). *(revision)* 
 
 -----
 
@@ -16,7 +20,7 @@ __Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and dat
 
 -----
 
-Chang, S.L.Y., Reineck, P., Williams, D., Bryant, G., Opletal, G., El-Demrdash, S.A., **Chiu, P.-L.**, Õsawa, E., Barnard, A.S., and Dwyer, C. Dynamic self-assembly of detonation nanodiamond in water. (2020). *Nanoscale* *(accepted)* 
+Chang, S.L.Y., Reineck, P., Williams, D., Bryant, G., Opletal, G., El-Demrdash, S.A., **Chiu, P.-L.**, Õsawa, E., Barnard, A.S., and Dwyer, C. Dynamic self-assembly of detonation nanodiamond in water. (2020). *Nanoscale* **12**:5363-5367.  
 
 -----
 
