@@ -12,7 +12,9 @@ title: People
 The Hong Kong Polytechnic University, Hong Kong, China. <br>
 The Hong Kong Community College, Hong Kong, China. <br>
 
-<br>
+"processing of neurotrophin receptor"
+<br><br><br>
+
 
 -----
 
@@ -42,6 +44,8 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 M.Sc. Chemistry, IIT Madras, Tamil Nadu, India. <br>
 B.Sc. Chemistry, Jadavpur University, West Bengal, India. <br>
+
+"apoptotic neurotrophin complex", "p97-mediated membrane fusion"
 <br><br><br>
 
 -----
@@ -68,6 +72,8 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 [rpuskar@asu.edu](rpuskar@asu.edu).
 
 B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
+
+"membrane reconstitution with raft lipids"
 <br><br><br>
 
 -----
@@ -80,6 +86,8 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
 [dktruong@asu.edu](dktruong@asu.edu).
 
 B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
+
+"Nogo receptor complex", "integrin complexes", "monolayer sandwich"
 <br><br><br>
 
 -----
@@ -90,6 +98,7 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 #### Lashen Zhao
 
 B.Sc. College of Life Sciences, Wuhan University, Wuhan, China. <br>
+
 <br><br><br>
 
 -----
