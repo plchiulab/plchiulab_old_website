@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-Truong, C.D., and Poh, Y.-P., and **Chiu, P.-L.** (2020). *(submitted)*
+__Truong, C.D.__, __Poh, Y.-P.__, and __Chiu, P.-L.__ (2020). *(submitted)*
 
 -----
 
