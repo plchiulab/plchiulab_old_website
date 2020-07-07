@@ -12,7 +12,11 @@ Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., 
 
 -----
 
-Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. (2020). *(revision)* 
+Dutta, S., __Nandi, P.__, __Chiu, P.-L.__, and Rege, K. (2020). *(under revision)* 
+
+-----
+
+Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. (2020). *(under revision)* 
 
 -----
 
