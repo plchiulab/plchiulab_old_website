@@ -20,7 +20,7 @@ Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. (20
 
 -----
 
-__Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. (2020). (*accepted*)
+__Chen, K.-Y.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2020). (*accepted*)
 
 -----
 
