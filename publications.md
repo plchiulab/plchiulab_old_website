@@ -12,7 +12,7 @@ Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., 
 
 -----
 
-Dutta, S., __Nandi, P.__, __Chiu, P.-L.__, and Rege, K. (2020). *(under revision)* 
+Godeshala, S., Miryala, B., Dutta, S., Christensen, M.D., __Nandi, P.__, __Chiu, P.-L.__, and Rege, K. (2020). *(under revision)* 
 
 -----
 
