@@ -28,7 +28,7 @@ Chang, S.L.Y., Reineck, P., Williams, D., Bryant, G., Opletal, G., El-Demrdash, 
 
 -----
 
-Robertson, K.E., Craciunescu, F.M., __Truong, C.D.__, **Chiu, P.-L.**, Fromme, P., and Hansen, D.T. Membrane directed expression in *Escherichia coli* of BBA57 and other virulence factors from the Lyme disease agent *Borrelia burgdorfeni*. *Sci Rep* **9**:1-15 (2019).  
+Robertson, K.E., __Truong, C.D.__, Craciunescu, F.M., Yang, J.-Y., **Chiu, P.-L.**, Fromme, P., and Hansen, D.T. Membrane directed expression in *Escherichia coli* of BBA57 and other virulence factors from the Lyme disease agent *Borrelia burgdorfeni*. *Sci Rep* **9**:1-15 (2019).  
 
 -----
 
