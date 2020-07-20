@@ -12,6 +12,10 @@ Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., 
 
 -----
 
+Toporik, H., Williams, D., __Chiu, P.-L.__, and Mazor, Y. (2020). *(submitted)*
+
+-----
+
 Godeshala, S., Miryala, B., Dutta, S., Christensen, M.D., __Nandi, P.__, __Chiu, P.-L.__, and Rege, K. (2020). *(under revision)* 
 
 -----
