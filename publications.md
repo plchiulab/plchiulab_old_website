@@ -20,7 +20,7 @@ Godeshala, S., Miryala, B., Dutta, S., Christensen, M.D., __Nandi, P.__, __Chiu,
 
 -----
 
-Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. (2020). *(under revision)* 
+Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. Structural basis of redox modulation on chloroplast ATP synthase. *Commun Biol* (2020). *(accepted)* 
 
 -----
 
