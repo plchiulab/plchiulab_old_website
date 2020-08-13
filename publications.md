@@ -16,7 +16,7 @@ Toporik, H., Williams, D., __Chiu, P.-L.__, and Mazor, Y. (2020). *(submitted)*
 
 -----
 
-Godeshala, S., Miryala, B., Dutta, S., Christensen, M.D., __Nandi, P.__, __Chiu, P.-L.__, and Rege, K. (2020). *(under revision)* 
+Godeshala, S., Miryala, B., Dutta, S., Christensen, M.D., __Nandi, P.__, __Chiu, P.-L.__, and Rege, K. A library of aminoglycoside-derived lipopolymer nanoparticles for delivery of small molecules and nucleic acids. *J Materials Chem B* (2020). *(accepted)* 
 
 -----
 
