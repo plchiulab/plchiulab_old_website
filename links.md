@@ -65,6 +65,9 @@ title: Links
 - [Oxford Particle Imaging Centre](https://github.com/OPIC-Oxford)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repository for Scipion, the scripts for local reconstruction, wrapped Python scripts for Relion, and so forth.
 
+- [Pro-Origami](http://munk.csse.unimelb.edu.au/pro-origami/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pro-origami is a system for automatically generating protein structure cartoons.  The cartoons are intended to make protein structure easy to interpret by laying out the secondary and super-secondary structure in two dimensions in a manner that makes the structure clear.
+
 - [ProSHADE](https://www2.mrc-lmb.cam.ac.uk/groups/murshudov/content/proshade/proshade.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ProSHADE (Proitein SHApe DEscription and symmetry detection) is a library and an associated tool providing functionalities for working with structural biology molecular structures. The library implements functions for computing shape-wise structural distances between pairs of molecules, detecting symmetry over the centre of mass of a single structure, map re-sizing as well as matching density maps and PDB coordinate files into one another.
 
