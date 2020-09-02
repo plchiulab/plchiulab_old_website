@@ -12,10 +12,6 @@ Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., 
 
 -----
 
-Toporik, H., Williams, D., __Chiu, P.-L.__, and Mazor, Y. (2020). *(submitted)*
-
------
-
 __Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2020). (*accepted*)
 
 -----
