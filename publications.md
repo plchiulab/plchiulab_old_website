@@ -16,7 +16,7 @@ __Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample p
 
 -----
 
-Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. Structural basis of redox modulation on chloroplast ATP synthase. *Commun Biol* (2020). *(accepted)* 
+Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P.\*, and **Chiu, P.-L.**\*. Structural basis of redox modulation on chloroplast ATP synthase. *Commun Biol* **3**:482 (2020). 
 
 -----
 
