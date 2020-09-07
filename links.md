@@ -111,6 +111,9 @@ title: Links
 - [Fitmunk](https://fitmunk.bitbucket.io/?)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fitmunk provides a framework for fitting conformations on a fixed backbone into electron density.
 
+- [ISOLDE](https://isolde.cimr.cam.ac.uk/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ISOLDE is a modern, immersive environment designed to ease the historically challenging task of building high-quality macromolecular models into low to medium resolution experimental maps. 
+
 - [Modeller](https://salilab.org/modeller/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODELLER is used for homology or comparative modeling of protein three-dimensional structures.
 
