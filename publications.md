@@ -4,6 +4,10 @@ title: Publications
 ---
 <br>
 
+March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. Pez. (2020). *(submitted)*
+
+-----
+
 __Truong, C.D.__, __Poh, Y.-P.__, and __Chiu, P.-L.__ (2020). *(submitted)*
 
 -----
