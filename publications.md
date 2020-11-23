@@ -4,15 +4,11 @@ title: Publications
 ---
 <br>
 
-March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. (2020). *(submitted)*
-
------
-
-__Truong, C.D.__, __Poh, Y.-P.__, and __Chiu, P.-L.__ (2020). *(submitted)*
-
------
-
 Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2020). *(submitted)*
+
+-----
+
+March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. (2020). *(revision)*
 
 -----
 
