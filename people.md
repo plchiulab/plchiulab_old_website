@@ -6,19 +6,6 @@ title: People
 <br><br>
 
 
-#### Isabella Breen
-
-School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
-
-"Rubisco"
-<br><br><br>
-
-
------
-
-<br><br>
-
-
 #### Ka Yi (Tina) Chan
 [kchan15@asu.edu](kchan15@asu.edu).
 
@@ -118,6 +105,7 @@ B.Sc. College of Life Sciences, Wuhan University, Wuhan, China. <br>
 
 
 ##### Past members
+2020 Fall - Isabella Breen - Graduated. <br>
 2019 Summer - Jay-How Yang - BCASD, ASU. <br>
 2018 Summer - Sanna Naveed. <br>
 2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
