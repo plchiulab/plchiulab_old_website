@@ -50,6 +50,9 @@ title: Links
 - [EMAN2](http://blake.bcm.edu/emanwiki/EMAN2)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMAN2 is a scientific image processing suite with a primary focus on processing TEM image data.  It provides various tools useful in structure determination for cryo-EM.
 
+- [EMDA](https://www2.mrc-lmb.cam.ac.uk/groups/murshudov/content/emda/emda.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMDA is a Python library for Electron Microscopy map and model manipulations. It comes under MPL-2.0 license. It supports both Python3 and Python2.
+
 - [Focus](https://focus.c-cina.unibas.ch/about.php)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The interface between data collection and data processing in cryo-EM.
 
