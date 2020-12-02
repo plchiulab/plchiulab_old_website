@@ -94,6 +94,18 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 
 <br><br>
 
+#### Kazi Waheeda
+[kwaheeda@asu.edu](kwaheeda@asu.edu).
+
+MS Biochemistry, Calcutta University, Kolkata, West Bengal, India. <br>
+
+"Rubisco"
+<br><br><br>
+
+-----
+
+<br><br>
+
 
 #### Lashen Zhao
 
