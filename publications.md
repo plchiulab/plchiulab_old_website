@@ -8,11 +8,11 @@ Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., 
 
 -----
 
-March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. (2020). *(revision)*
+__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2020). (*accepted*)
 
 -----
 
-__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2020). (*accepted*)
+March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. *J Microsc* (2020). *(accepted)*
 
 -----
 
