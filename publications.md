@@ -12,7 +12,7 @@ __Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample p
 
 -----
 
-March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. *J Microsc* (2020). *(accepted)*
+March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. Protein secondary structure signatures from energy loss spectra recorded in the electron microscope. *J Microsc* (2020). *(accepted)*
 
 -----
 
