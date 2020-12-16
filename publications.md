@@ -4,7 +4,11 @@ title: Publications
 ---
 <br>
 
-Zhang, X., Gui, L., Shan, L., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2020). *(submitted)*
+__Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., Malyutin, A.G., __Poh, Y.-P.__, Chou, T.-F., and **Chiu, P.-L.** (2020). *(submitted)*
+
+-----
+
+Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2020). *(submitted)*
 
 -----
 
