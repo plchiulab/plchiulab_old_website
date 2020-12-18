@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-__Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., Poh, Y.-P., ..., Chou, T.-F., and __Chiu, P.-L.__ (2020). *(hold for patent)*
+__Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..., Chou, T.-F., and __Chiu, P.-L.__ (2020). *(hold for patent)*
 
 -----
 
