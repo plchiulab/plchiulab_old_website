@@ -120,6 +120,9 @@ title: Links
 - [Modeller](https://salilab.org/modeller/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MODELLER is used for homology or comparative modeling of protein three-dimensional structures.
 
+- [OpenMM](https://simtk.org/projects/openmm)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OpenMM includes everything one needs to run modern molecular simulations. It is extremely flexible with its custom functions, is open-source, and has high performance, especially on recent GPUs.
+
 - [OpenStructure](http://www.openstructure.org)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open-Source Computational Structural Biology Framework.  
 
