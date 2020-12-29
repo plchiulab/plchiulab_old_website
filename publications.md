@@ -4,19 +4,19 @@ title: Publications
 ---
 <br>
 
-__Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..., Chou, T.-F., and __Chiu, P.-L.__ (2020). *(hold for patent)*
+__Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..., Chou, T.-F., and __Chiu, P.-L.__ (2021). *(hold for patent)*
 
 -----
 
-__Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., Malyutin, A.G., __Poh, Y.-P.__, Chou, T.-F., and **Chiu, P.-L.** (2020). *(submitted)*
+__Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., Malyutin, A.G., __Poh, Y.-P.__, Chou, T.-F., and **Chiu, P.-L.** (2021). *(submitted)*
 
 -----
 
-Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2020). *(submitted)*
+Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(submitted)*
 
 -----
 
-__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2020). (*accepted*)
+__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2021). (*accepted*)
 
 -----
 
