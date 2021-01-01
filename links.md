@@ -105,6 +105,9 @@ title: Links
 - [CMCD in Gromacs](https://www.mpibpc.mpg.de/grubmueller/densityfitting)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We present a correlation-driven molecular dynamics (CDMD) method for automated refinement of atomistic models into cryo-electron microscopy (cryo-EM) maps at resolutions ranging from near-atomic to subnanometer. It utilizes a chemically accurate force field and thermodynamic sampling to improve the real-space correlation between the modeled structure and the cryo-EM map.
 
+- [DeepTracer](https://deeptracer.uw.edu/home)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fully automatic tool for de novo all-atom protein complex structure prediction from cryo-electron microscopy (cryo-EM) density maps using 3D deep learning. (Pfab et al. (2020))
+
 - [EMBuilder](https://github.com/NiyunZhou/EMBuilder)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMBuilder is a model building program for cryo-EM density maps.  It is based on template matching method which is widely used in Crystallography.  The suitable resolution for input map is higher than 3.5 Å.
 
