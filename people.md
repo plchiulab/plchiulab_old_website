@@ -154,6 +154,7 @@ B.Sc. College of Life Sciences, Wuhan University, Wuhan, China. <br>
 
 ##### Past members
 2020 Fall - Isabella Breen - Graduated. <br>
+2020 Summer - Kris Suping Zheng <br>
 2019 Summer - Jay-How Yang - BCASD, ASU. <br>
 2018 Summer - Sanna Naveed. <br>
 2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
