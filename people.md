@@ -37,15 +37,39 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 <br><br>
 
+
+#### Kira Devore
+[kira.devore@asu.edu](kira.devore@asu.edu).
+
+ASU undergraduate researcher. 
+
+<br><br><br>
+
+-----
+
+<br><br>
+
 ![Purbasha Nandi](images/pnandi.png){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Purbasha Nandi
-[purbasha.nandi@asu.edu](purbasha.nandi@asu.edu).
+[pnandi@asu.edu](purbasha.nandi@asu.edu).
 
 M.Sc. Chemistry, IIT Madras, Tamil Nadu, India. <br>
 B.Sc. Chemistry, Jadavpur University, West Bengal, India. <br>
 
 "apoptotic neurotrophin complex", "p97-mediated membrane fusion"
+<br><br><br>
+
+-----
+
+<br><br>
+
+
+#### Alan Nisanov
+[alan.nisanov@asu.edu](alan.nisanov@asu.edu).
+
+ASU undergraduate researcher. 
+
 <br><br><br>
 
 -----
@@ -74,6 +98,18 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
 
 "membrane reconstitution with raft lipids"
+<br><br><br>
+
+-----
+
+<br><br>
+
+
+#### Elizabeth Rapacz
+[elizabeth.rapacz@asu.edu](elizabeth.rapacz@asu.edu).
+
+ASU undergraduate researcher. 
+
 <br><br><br>
 
 -----
