@@ -5,13 +5,6 @@ title: Contact
 
 <br><br>
 
-<br>
-<p align="center">
-  <!--<img src="images/Group_photos/IMG_4020.jpg" width="1000px">-->
-  <img src="images/Group_photos/IMG_4020.jpg" width="800px">
-  <em>Masked 2020.</em>
-</p>
-<br>
 
 #### Po-Lin Chiu, Ph.D.
 School of Molecular Sciences | CASD / The Biodesign Institute<br>
@@ -31,3 +24,11 @@ Lab equipment: Ultracentrifuges, incubators for insect and mammalian cell cultur
 TEM facility (Eyring Materials Center) (frequently accessed): one Thermo Fischer/FEI Vitrobot Mark IV automated plunger, one home-made manual plunger, one Philips CM12 TEM, two FEI Tecnai TF20 TEMs, one FEI aberration-corrected Environmental Titan TEM, and one Thermo Fisher/FEI Titan Krios TEM. <br>
 
 Funding supports: DOE, DoD, and Morphic Therapeutics. 
+
+<br>
+<p align="center">
+  <!--<img src="images/Group_photos/IMG_4020.jpg" width="1000px">-->
+  <img src="images/Group_photos/IMG_4020.jpg" width="800px">
+  <em>Masked 2020.</em>
+</p>
+<br>
