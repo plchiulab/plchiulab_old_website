@@ -5,6 +5,7 @@ title: People
 
 <br><br>
 
+![Ka-Yi Tina Chan](images/tina.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Ka Yi (Tina) Chan
 [kchan15@asu.edu](kchan15@asu.edu).
