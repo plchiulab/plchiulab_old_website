@@ -16,11 +16,11 @@ Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **
 
 -----
 
-__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* (2020). (*accepted*)
+March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. Protein secondary structure signatures from energy loss spectra recorded in the electron microscope. *J Microsc* (2021). *(accepted)*
 
 -----
 
-March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. Protein secondary structure signatures from energy loss spectra recorded in the electron microscope. *J Microsc* (2020). *(accepted)*
+__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* **2215**:247-265 (2021). 
 
 -----
 
