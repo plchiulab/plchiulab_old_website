@@ -44,7 +44,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br>
 
 ##### Energy-related molecular mechanisms
-We are interested in how a cell produce or utilize energy to sustain its life.  Our research focus on the photosynthetic RC-FMO complex and ATP synthase motors. 
+We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex and ATP synthase motors.  We use both cryo-EM and molecular simulation methods to understand the energy transduction in the RC-FMO complex. 
 
 <br>
 <p align="center">
@@ -61,6 +61,7 @@ We are interested in how a cell produce or utilize energy to sustain its life.  
 <br>
 
 ##### Electron imaging
+We are exploring electron holographic imaging for the use in the measurements of single-particle physical properties.  We initially focus on the specimen of a polarized membrane. 
 
 
 ##### Research resources
