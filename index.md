@@ -33,16 +33,6 @@ Harvard University)<br>
 Location: ERC 490<br>
 Time: 13:30
 
-#### April 13, 2017
-Engineering phospholipid nanodiscs for membrane protein studies - Dr. Gerhard Wagner (Harvard Medical School)<br>
-Location: PSH 151<br>
-Time: 15:40
-
-#### April 12, 2017
-Solution NMR from a chemist's tool to solving protein structures - Dr. Gerhard Wagner (Harvard Medical School)<br>
-Location: PSH 150<br>
-Time: 18:30
-
 
 <br>
 
