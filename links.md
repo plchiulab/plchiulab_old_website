@@ -190,6 +190,8 @@ title: Links
 
 - [Boost C++ library](http://www.boost.org)
 
+- [Quantum protein folding algorithms](https://protein-folding-demo.mybluemix.net/?lnk=hm)
+
 - High-performance computing
   - Hardware
     - [EXXACT Blog](http://exxactcorp.com/blog/)
