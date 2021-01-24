@@ -176,6 +176,8 @@ title: Links
 ### Cryo-EM education
 - [NCCAT Remote Learning Central](https://nccat.nysbc.org/activities/nccat-remote-learning/)
 
+- [Learning cryo-EM mathematics](https://github.com/geoffwoollard/learn_cryoem_math)
+
 
 ### Computation resources
 - [Python](https://www.python.org)
