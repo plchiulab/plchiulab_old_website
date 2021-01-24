@@ -20,7 +20,7 @@ March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and
 
 -----
 
-__Chen, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* **2215**:247-265 (2021). 
+__Chan, K.-Y.__, __Truong, C.D.__, __Poh, Y.-P.__, and **Chiu, P.-L.**. Sample preparation and data collection for electron crystallographic studies on membrane protein structures and lipid-protein interaction. *Methods in Mole Biol* **2215**:247-265 (2021). 
 
 -----
 
