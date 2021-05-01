@@ -4,10 +4,6 @@ title: Publications
 ---
 <br>
 
-__Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan, K.-Y.__, Mer, G.\*, __Chiu, P.-L.\*__, and Kumar, R.\* (2021). 
-
------
-
 __Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..., Chou, T.-F., and __Chiu, P.-L.__ (2021). *(hold for patent)*
 
 -----
@@ -17,6 +13,10 @@ __Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., Malyutin, A.
 -----
 
 Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(submitted)*
+
+-----
+
+__Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan, K.-Y.__, Mer, G.\*, __Chiu, P.-L.\*__, and Kumar, R.\* (2021). *(under revision)*
 
 -----
 
