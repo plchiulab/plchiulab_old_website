@@ -43,6 +43,15 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 </p>
 <br>
 
+<br>
+<p align="center">
+  <!--<img src="images/research_03.png" width="1000px">-->
+  <img src="images/Conformation_01.png" width="200px">
+  <em>Cryo-EM density of an integrin complex.</em>
+</p>
+<br>
+
+
 ##### Energy-related molecular mechanisms
 We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex and ATP synthase motors.  We use both cryo-EM and molecular simulation methods to understand the energy transduction in the RC-FMO complex. 
 
