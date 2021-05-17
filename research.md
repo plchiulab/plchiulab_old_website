@@ -46,7 +46,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br>
 <p align="center">
   <!--<img src="images/research_03.png" width="1000px">-->
-  <img src="images/Conformation_01.png" width="200px">
+  <img src="images/Conformation_01.png" width="600px">
   <em>Cryo-EM density of an integrin complex.</em>
 </p>
 <br>
