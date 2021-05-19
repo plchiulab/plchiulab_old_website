@@ -12,7 +12,7 @@ __Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., Malyutin, A.
 
 -----
 
-Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(submitted)*
+Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(under revision)*
 
 -----
 
