@@ -68,6 +68,9 @@ title: Links
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LigPlot+ is a successor to our original LIGPLOT program for automatic generation of 2D ligand-protein interaction diagrams. It is run from an intuitive java interface which allows on-screen editing of the plots via mouse click-and-drag operations.
 
+- [LocScale](http://jakobilab.tudelft.nl/software/locscale/)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LocScale is a reference-based local amplitude scaling tool using prior model information to improve contrast of cryo-EM density maps. It can be helpful in the common case of resolution variation in the 3D reconstruction and it can be used as an alternative to other commonly applied map sharpening methods.
+
 - [MotionCor2](http://msg.ucsf.edu/em/software/motioncor2.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The multi-GPU accelerated program, MotionCor2, is sufficiently fast to keep up with automated data collection. The result is an exceptionally robust strategy that can work on a wide range of data sets, including those very close to focus or with very short integration times, obviating the need for particle polishing.
 
