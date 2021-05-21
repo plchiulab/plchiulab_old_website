@@ -4,6 +4,10 @@ title: Publications
 ---
 <br>
 
+Baker, A., Boyd, R., Sarkar, D., Vant, J., Crespo, A.T., Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Williams, D., __Chiu, P.-L.__, Rizkallah, P.J., Nagalo, M.B., Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. (2021). *(submitted)*
+
+-----
+
 __Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..., Chou, T.-F., and __Chiu, P.-L.__ (2021). *(hold for patent)*
 
 -----
