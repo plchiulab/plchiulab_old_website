@@ -23,7 +23,7 @@ Lab equipment: Ultracentrifuges, incubators for insect and mammalian cell cultur
 
 TEM facility (Eyring Materials Center) (frequently accessed): one Thermo Fischer/FEI Vitrobot Mark IV automated plunger, one home-made manual plunger, one Philips CM12 TEM, two FEI Tecnai TF20 TEMs, one FEI aberration-corrected Environmental Titan TEM (K3/GIF), and one Thermo Fisher/FEI Titan Krios TEM (K2). <br>
 
-Funding supports: DOE, DoD, and Morphic Therapeutics. 
+Funding supports: DOE, Army, and Morphic Therapeutics. 
 
 <br>
 <p align="center">
