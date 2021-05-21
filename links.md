@@ -20,6 +20,7 @@ title: Links
 
 
 ### Structural biology community
+- [Chemistry at HARvard Macromolecular Mechanics (CHARMM)](https://www.charmm.org)
 - [Deutsches Elektronen-Synchrotron (DESY)](http://www.desy.de/index_eng.html)
 - [The Human Protein Atlas](https://www.proteinatlas.org/)
 - [Theoretical and Computational Biophysics Group @ UIUC](http://www.ks.uiuc.edu/)
