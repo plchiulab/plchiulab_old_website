@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-Baker, A., Boyd, R., Sarkar, D., Vant, J., Crespo, A.T., Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Williams, D., __Chiu, P.-L.__, Rizkallah, P.J., Nagalo, M.B., Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. (2021). *(submitted)*
+Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., __Truong, C.D.__, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M.,  Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., __Chiu, P.-L.__, Rizkallah, P.J., Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. (2021). *(submitted)*
 
 -----
 
