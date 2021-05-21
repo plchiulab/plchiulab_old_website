@@ -9,9 +9,9 @@ layout: first_page
 <br>
 
 ## Conferences and Meetings
+- 07/30/2021 - 08/05/2021: [ACA 2021 Structural Science Awakens](https://www.acameeting.com/call-for-papers-2021)
 - 09/19/2017 - 09/21/2017: Conference on Methods and Applications in the Frontier between MX and CryoEM, Barcelona, Spain. 
 - 08/06/2017 - 08/10/2017: International Workshop of Advanced Image Processing of Cryo-Electron Microscopy, Beijing, China. 
-- 05/13/2017 - 05/17/2017: [Understanding Biology through Structure in Santa Fe, NM.](https://conferences.newmexicoconsortium.org/conferences/ubts_17/program )
 
 <br>
 
