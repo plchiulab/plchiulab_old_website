@@ -183,6 +183,10 @@ title: Links
 - [Learning cryo-EM mathematics](https://github.com/geoffwoollard/learn_cryoem_math)
 
 
+### Scripting toolboxes
+- [UCSF PyEM](https://github.com/asarnow/pyem)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UCSF pyem is a collection of Python modules and command-line utilities for electron microscopy of biological samples.
+
 ### Computation resources
 - [Python](https://www.python.org)
   - [Cython](http://cython.org)
