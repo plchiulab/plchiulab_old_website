@@ -28,7 +28,7 @@ __Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan
 
 -----
 
-March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. Protein secondary structure signatures from energy loss spectra recorded in the electron microscope. *J Microsc* (2021). *(accepted)*
+March, K., Venkatraman, K., __Truong, C.D.__, Williams, D., __Chiu, P.-L.__, and Rez, P. Protein secondary structure signatures from energy loss spectra recorded in the electron microscope. *J Microsc* **282**:215-223 (2021). 
 
 -----
 
