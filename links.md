@@ -187,6 +187,9 @@ title: Links
 - [UCSF PyEM](https://github.com/asarnow/pyem)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UCSF pyem is a collection of Python modules and command-line utilities for electron microscopy of biological samples.
 
+- [CTF calculator](https://3dem.github.io/relion/ctf.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This page is written by Takanori Nakane at MRC-LMB. This page uses Javascript for calculation.
+
 ### Computation resources
 - [Python](https://www.python.org)
   - [Cython](http://cython.org)
