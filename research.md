@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Our laboratory reseach focus on molecular mechanisms of bio-macromolecules, particularly membrane receptor complex and energy-related machinery.  The main tool we are using to visualize the process is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
+Our laboratory reseach focus on molecular mechanisms of bio-macromolecules, particularly membrane receptor complexes and energy-related machinery of biological systems.  The main tool we use to visualize the process is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
 
 ##### Membrane proteins
 Membrane protein acts as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  Our lab interests are the **structures and functions of membrane proteins**, particularly in the context of membrane bilayers.  We are tackling the fundamental questions about:
@@ -53,7 +53,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 
 
 ##### Energy-related molecular mechanisms
-We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex and ATP synthase motors.  We use both cryo-EM and molecular simulation methods to understand the energy transduction in the RC-FMO complex. 
+We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex and ATP synthase motors.  We use both cryo-EM and molecular simulation methods to understand the energy transduction in the RC-FMO complex.  
 
 <br>
 <p align="center">
