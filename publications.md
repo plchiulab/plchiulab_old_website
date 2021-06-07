@@ -24,7 +24,7 @@ Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **
 
 -----
 
-__Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan, K.-Y.__, Mer, G.\*, __Chiu, P.-L.\*__, and Kumar, R.\* (2021). *(under revision)*
+__Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan, K.-Y.__, Mer, G.\*, __Chiu, P.-L.\*__, and Kumar, R.\* Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. (2021). *(accepted)* 
 
 -----
 
