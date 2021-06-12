@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-__Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021). 
+__Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021). *(submitted)*
 
 -----
 
