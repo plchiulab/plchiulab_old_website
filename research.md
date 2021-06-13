@@ -62,12 +62,7 @@ We are interested in how a cell produce or utilize energy to sustain its life.  
   <em>Single-particle cryo-EM structure of an F-type ATP synthase (Left: F1 density; Right: transmembrane c-ring). </em>
 </p>
 <br>
-<br>
-<p align="center">
-  <img src="images/deposited_cover.png" width="400px">
-  <em>Single-particle cryo-EM density of the p97 linker mutant complex.</em>
-</p>
-<br>
+
 
 ##### Electron imaging
 We are exploring electron holographic imaging for the use in the measurements of single-particle physical properties.  We initially focus on the specimen of a polarized membrane. 
