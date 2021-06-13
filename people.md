@@ -13,7 +13,7 @@ title: People
 The Hong Kong Polytechnic University, Hong Kong, China. <br>
 The Hong Kong Community College, Hong Kong, China. <br>
 
-"processing of neurotrophin receptor"
+"regulated processing of p75 neurotrophin receptor"
 <br><br><br>
 
 
@@ -42,7 +42,9 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 #### Kira Devore
 [kira.devore@asu.edu](kira.devore@asu.edu).
 
-ASU undergraduate researcher. 
+B.Sc, Biochemistry, Arizona State University, Tempe, AZ. <br>
+
+"p97-mediated membrane fusion"
 
 <br><br><br>
 
@@ -98,7 +100,7 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 
 B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
 
-"membrane reconstitution with raft lipids"
+"interaction between FMO and monolayer baseplate CsmA proteins"
 <br><br><br>
 
 -----
@@ -109,7 +111,9 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
 #### Elizabeth Rapacz
 [elizabeth.rapacz@asu.edu](elizabeth.rapacz@asu.edu).
 
-ASU undergraduate researcher. 
+ASU undergraduate researcher. <br>
+
+"regulated processing of p75 neurotrophin receptor"
 
 <br><br><br>
 
@@ -124,7 +128,7 @@ ASU undergraduate researcher.
 
 B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 
-"Nogo receptor complex", "integrin complexes", "monolayer sandwich"
+"Nogo receptor complex", "integrin complexes", "monolayer sandwich technique"
 <br><br><br>
 
 -----
@@ -136,7 +140,7 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 
 MS Biochemistry, Calcutta University, Kolkata, West Bengal, India. <br>
 
-"Rubisco"
+"Rubisco/Rca complex"
 <br><br><br>
 
 -----
