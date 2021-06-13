@@ -10,8 +10,8 @@ layout: first_page
 
 ## Conferences and Meetings
 - 09/09/2021 - 09/10/2021: [VCP Scientific Conference](https://hopin.com/events/vcp-scientific-conference-2021)
-- 06/08/2021 - 06/09/2021: Cryo-EM in Drug Discovery (Swedish National Cryo-EM Facility)
 - 07/30/2021 - 08/05/2021: [ACA 2021 Structural Science Awakens](https://www.acameeting.com/call-for-papers-2021)
+- 07/01/2021 - 07/02/2021: [PSB Symposium "Frontiers in Bioimaging"](https://www.esrf.fr/home/events/conferences/2021/psb-symposium-frontiers-in-bioimaging/call-for-abstracts-for-poster-and-oral-contributions.html)
 
 <br>
 
