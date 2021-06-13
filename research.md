@@ -64,8 +64,8 @@ We are interested in how a cell produce or utilize energy to sustain its life.  
 <br>
 <br>
 <p align="center">
-  <img src="images/demo-den.png" width="400px">
-  <em>Single-particle cryo-EM density of an ATPase.</em>
+  <img src="images/deposited_cover.png" width="400px">
+  <em>Single-particle cryo-EM density of the p97 linker mutant complex.</em>
 </p>
 <br>
 
