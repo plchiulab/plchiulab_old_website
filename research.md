@@ -5,6 +5,7 @@ title: Research
 
 Our laboratory reseach focus on molecular mechanisms of bio-macromolecules, particularly membrane receptor complexes and energy-related machinery of biological systems.  The main tool we use to visualize these molecular processes is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
 
+<hr>
 ##### Membrane proteins
 Membrane protein acts as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  Our lab interests are the **structures and functions of membrane proteins**, particularly in the context of membrane bilayers.  We are tackling the fundamental questions about:
 
@@ -38,9 +39,8 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br>
 <p align="center">
   <!--<img src="images/research_03.png" width="1000px">-->
-  <img src="images/sortilin.png" width="600px" align="left">
+  <img src="images/sortilin.png" width="600px">
   <em>Schematic of the receptor complex of pro-NGF-p75NTR-sortilin.</em>
-  <br clear="left">Pro-NGF is the precursor of the nerve growth factor, which binds to p75NTR and sortilin to trigger neuronal apoptosis. 
 </p>
 <br>
 
