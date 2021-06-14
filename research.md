@@ -38,7 +38,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br>
 <p align="center">
   <!--<img src="images/research_03.png" width="1000px">-->
-  <img src="images/sortilin.png" width="600px">
+  <img src="images/sortilin.png" width="600px" align="left">
   <em>Schematic of the receptor complex of pro-NGF-p75NTR-sortilin.</em>
   <br clear="left">Pro-NGF is the precursor of the nerve growth factor, which binds to p75NTR and sortilin to trigger neuronal apoptosis. 
 </p>
