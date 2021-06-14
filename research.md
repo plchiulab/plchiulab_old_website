@@ -30,10 +30,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br>
 
 <br>
-<p align="center">
-  <img src="images/research_06.png" width="950px">
-  <em>(A) Power spectrum and (B) IQ-plot of the AQP0/cholesterol 2D crystal image with its projectionn reconstruction in (C) grey and (D) contour representations.</em>
-</p>
+<img src="images/research_06.png" width="850px" /><em>Image analysis of aquaporin-0 2D membrane arrays. </em>(A) Power spectrum and (B) IQ-plot of the AQP0/cholesterol 2D crystal image with its projectionn reconstruction in (C) grey and (D) contour representations.  Fast frame acquisition enables the registration of specimen movements during electron bombardment.  The phases of diffraction spots can be derived from the image power spectrum for map generation. 
 <br>
 
 <br>
