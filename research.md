@@ -31,7 +31,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 
 <br>
 <p><img src="images/research_06.png" width="800px" align="right" /><em>Image analysis of aquaporin-0 2D membrane arrays. </em>(A) Power spectrum and (B) IQ-plot of the AQP0/cholesterol 2D crystal image with its projectionn reconstruction in (C) grey and (D) contour representations.  Fast frame acquisition enables the registration of specimen movements during electron bombardment.  The phases of diffraction spots can be derived from the image power spectrum for map generation. (Chiu et al., 2015) </p>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <br>
 <img src="images/sortilin.png" width="600px" align="left" /><em>Schematic of the receptor complex of pro-NGF-p75NTR-sortilin.  </em>Pro-NGF is the precursor of the nerve growth factor, which binds p75NTR and sortilin to initiate neuronal apoptosis.  The pro-domain plays an important role in determining the apoptotic pathway.  We are interested in how pro-domain engages in the receptor complex formation and determines neuronal fate.
