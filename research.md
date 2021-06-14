@@ -40,6 +40,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
   <!--<img src="images/research_03.png" width="1000px">-->
   <img src="images/sortilin.png" width="600px">
   <em>Schematic of the receptor complex of pro-NGF-p75NTR-sortilin.</em>
+  <br clear="left">Pro-NGF is the precursor of the nerve growth factor, which binds to p75NTR and sortilin to trigger neuronal apoptosis. 
 </p>
 <br>
 
@@ -51,7 +52,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 </p>
 <br>
 
-
+<hr>
 ##### Energy-related molecular mechanisms
 We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex (Chlorobaculum tepidum and P2K) and ATP synthase motors (chloroplast and bovine).  We use both cryo-EM and molecular simulation methods to understand the energy transduction in these systems.  We first determined different association modes of the FMO to the RC complex.  The complete complex demonstrates an asymmetric arrangement attached to the RC intracellular surface.  Secondly, we are interested in how activated RC-FMO system modulates the membrane voltage via the charge creaction by RC.  We are also interested in how membrane voltage modulation affects the non-equilibrium dynamics of ATP synthase. 
 
@@ -63,11 +64,11 @@ We are interested in how a cell produce or utilize energy to sustain its life.  
 </p>
 <br>
 
-
+<hr>
 ##### Electron imaging
 We are exploring electron holographic imaging for the use in the measurements of single-particle physical properties.  We initially focus on the specimen of a polarized membrane. 
 
-
+<hr>
 ##### Research resources
 Arizona State University (ASU) has a long history of international leadership in the field of electron microscopy. The Center for High Resolution Electron Microscopy, established as a National Science Foundation (NSF) Regional Center by Professor John M. Cowley in 1980, currently houses three aberration-corrected transmission electron microscopes (TEMs) and one Titan Krios TEM.  The existing resources for structural biology studies on the campus include the Magnetic Resonance Research Center (MRRC),  the College of Liberal Arts and Sciences (CLAS) Electron Paramagnetic Resonance (EPR), and the CLAS-EM Facility.  Additionally, ASU has pioneering research groups in the field of X-ray free electron lasers (XFEL) and femtosecond nanocrystallography.  The Center for Applied Structural Discovery (CASD) at the Biodesign Institute is currently building the world’s first high energy compact Free Electron Laser in collaboration with Massachusetts Institute of Technology, which will be hosted in the basement of the new Biodesign C building.  
 
