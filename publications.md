@@ -4,10 +4,6 @@ title: Publications
 ---
 <br>
 
-__Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021). *(submitted)*
-
------
-
 Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., __Truong, C.D.__, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M.,  Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., __Chiu, P.-L.__, Rizkallah, P.J., Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. (2021). *(submitted)*
 
 -----
@@ -20,11 +16,15 @@ __Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.
 
 -----
 
-Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(under revision)*
+__Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021). *(under review)*
 
 -----
 
-__Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan, K.-Y.__, Mer, G.\*, __Chiu, P.-L.\*__, and Kumar, R.\* Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. (2021). *(accepted)* 
+Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(revision)*
+
+-----
+
+__Truong, C.D.__, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., __Chan, K.-Y.__, Mer, G.\*, __Chiu, P.-L.\*__, and Kumar, R.\* Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. *J Biol Chem* (2021). *(accepted)* 
 
 -----
 

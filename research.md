@@ -15,7 +15,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 
 <br>
 <p align="center">
-  <img src="images/research_11.png" width="950px">
+  <img src="images/research_11.png" width="900px">
   <em>Aquaporin-0 (AQP0) with membrane lipids.</em>
 </p>
 <br>
@@ -23,8 +23,8 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br>
 <p align="center">
   <!--<img src="images/research_03.png" width="1000px">-->
-  <img src="images/MloK1-open-close-1.gif" width="350px" align="left">
-  <img src="images/Chiu_2007_Structure.jpg" width="350px">
+  <img src="images/MloK1-open-close-1.gif" width="325px" align="left">
+  <img src="images/Chiu_2007_Structure.jpg" width="325px">
   <em>Negatively-stained MloK1 revealed by electron crystallography and single-particle reconstruction.</em>
 </p>
 <br>
