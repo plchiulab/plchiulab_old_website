@@ -145,17 +145,6 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India. <br>
 
 -----
 
-<br><br>
-
-
-#### Lashen Zhao
-
-B.Sc. College of Life Sciences, Wuhan University, Wuhan, China. <br>
-
-<br><br><br>
-
------
-
 
 ##### Past members
 2020 Fall - Isabella Breen - Graduated. <br>
