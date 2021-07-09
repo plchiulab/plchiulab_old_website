@@ -12,7 +12,7 @@ __Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..
 
 -----
 
-__Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.__, Chou, T.-F., and **Chiu, P.-L.** (2021). *(submitted)*
+__Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.__, Chou, T.-F., and **Chiu, P.-L.** (2021). *(under review)*
 
 -----
 
