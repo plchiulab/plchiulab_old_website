@@ -187,6 +187,9 @@ title: Links
 
 
 ### Scripting toolboxes
+- [Scripts for Topaz use in Relion](https://github.com/tbepler/topaz/tree/master/relion_run_topaz)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These scripts allow you to run TOPAZ particle picker and denoiser (https://github.com/tbepler/topaz) from the RELION (https://github.com/3dem/relion) gui as an External job type.
+
 - [UCSF PyEM](https://github.com/asarnow/pyem)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UCSF pyem is a collection of Python modules and command-line utilities for electron microscopy of biological samples.
 
