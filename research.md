@@ -57,6 +57,13 @@ We are interested in how a cell produce or utilize energy to sustain its life.  
 </p>
 <br>
 
+<br>
+<p align="center">
+  <img src="images/dimeric.png" width="250px" align="left">
+  <em>Dimeric assembly of an AAA+ ATPase. </em>
+</p>
+<br>
+
 <hr>
 ##### Electron imaging
 We are exploring electron holographic imaging for the use in the measurements of single-particle physical properties.  We initially focus on the specimen of a polarized membrane. 
