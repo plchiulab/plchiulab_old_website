@@ -59,7 +59,7 @@ We are interested in how a cell produce or utilize energy to sustain its life.  
 
 <br>
 <p align="center">
-  <img src="images/dimeric.png" width="250px" align="left">
+  <img src="images/dimeric.png" width="300px">
   <em>Dimeric assembly of an AAA+ ATPase. </em>
 </p>
 <br>
