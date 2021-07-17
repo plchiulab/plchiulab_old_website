@@ -217,6 +217,9 @@ title: Links
 
   - [PyQtGraph](http://www.pyqtgraph.org)
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyQtGraph is a pure-python graphics and GUI library built on PyQt4, PySide and numpy. It is intended for use in mathematics, scientific, engineering applications. Despite being written entirely in python, the library is very fast due to its heavy leverage of numpy for number crunching and Qt's GraphicsView framework for fast display.
+  
+  - [Higra](https://github.com/higra/Higra)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higra is a C++/Python library for efficient sparse graph analysis with a special focus on hierarchical methods. 
 
 - [Boost C++ library](http://www.boost.org)
 
