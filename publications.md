@@ -4,7 +4,7 @@ title: Publications
 ---
 <br>
 
-__Nandi, P.__, __Poh, Y.-P.__ and Chiu, P.-L. (2021). 
+__Nandi, P.__, __Poh, Y.-P.__ and __Chiu, P.-L.__ (2021). 
 
 -----
 
