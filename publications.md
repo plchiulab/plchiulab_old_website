@@ -16,7 +16,7 @@ __Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..
 
 -----
 
-__Nandi, P.__, Li, S., Coulmbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.__, Chou, T.-F., and **Chiu, P.-L.** (2021). *(revision)*
+__Nandi, P.__, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.__, Chou, T.-F.\*, and **Chiu, P.-L.**\* (2021). *(revision)*
 
 -----
 
@@ -24,7 +24,7 @@ __Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021
 
 -----
 
-Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**, and Chou, T.-F. (2021). *(revision)*
+Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**\*, and Chou, T.-F.\* (2021). *(revision)*
 
 -----
 
