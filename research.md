@@ -7,7 +7,7 @@ Our laboratory reseach focus on molecular mechanisms of bio-macromolecules, part
 
 <hr>
 ##### Membrane proteins
-Membrane protein acts as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  Our lab interests are the **structures and functions of membrane proteins**, particularly in the context of membrane bilayers.  We are tackling the fundamental questions about:
+Membrane protein acts as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  We are tackling the fundamental questions about:
 
 - How does membrane protein sense the environmental change and respond in a functional or structural change?
 - How do membrane lipids spatially organize the proteins in the bilayer to perform their functions?
@@ -34,7 +34,7 @@ Membrane protein acts as a gate keeper or a diode in the cell membranes, which p
 <br><br><br><br><br><br>
 
 <br>
-<img src="images/sortilin.png" width="600px" align="left" /><em>Schematic of the receptor complex of pro-NGF-p75NTR-sortilin.  </em>Pro-NGF is the precursor of the nerve growth factor, which binds p75NTR and sortilin to initiate neuronal apoptosis.  The pro-domain plays an important role in determining the apoptotic pathway.  We are interested in how pro-domain engages in the receptor complex formation and determines neuronal fate.
+<img src="images/sortilin.png" width="600px" align="left" /><em>Schematic of the receptor complex of pro-NGF-p75NTR-sortilin.  </em>p75NTR functions as a switch of the fate of a neuron, depending on binding co-receptors.  Pro-NGF is the precursor of the nerve growth factor, which binds p75NTR and sortilin to initiate neuronal apoptosis.  The pro-domain plays an important role in determining the apoptotic pathway.  We are interested in the molecular underpinnings of how pro-domain engages in the receptor complex formation and leads to neuronal apoptosis.
 <br>
 
 <br>
