@@ -24,7 +24,7 @@ Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **
 
 -----
 
-__Nandi, P.__, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.__, Chou, T.-F.\*, and **Chiu, P.-L.**\* Structural and functional analysis of p97 mutant complexes. *Int J Mole Sci* (2021). *(accepted)*
+__Nandi, P.__, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., __Poh, Y.-P.__, Chou, T.-F.\*, and **Chiu, P.-L.**\* Structural and functional analysis of disease-linked p97 mutant complexes. *Int J Mole Sci* (2021). *(accepted)*
 
 -----
 
