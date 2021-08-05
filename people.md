@@ -52,6 +52,19 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ. <br>
 
 <br><br>
 
+![Edgar Ferrer]
+
+#### Edgar Ferrer
+[eferrer1@asu.edu](eferrer1@asu.edu).
+
+SMS undergraduate researcher. 
+
+<br><br><br>
+
+-----
+
+<br><br>
+
 ![Purbasha Nandi](images/pnandi.png){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Purbasha Nandi
