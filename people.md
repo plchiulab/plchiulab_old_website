@@ -38,7 +38,6 @@ B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
 <br><br>
 
-
 #### Kira Devore
 [kira.devore@asu.edu](kira.devore@asu.edu).
 
@@ -51,8 +50,6 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ. <br>
 -----
 
 <br><br>
-
-![Edgar Ferrer]
 
 #### Edgar Ferrer
 [eferrer1@asu.edu](eferrer1@asu.edu).
