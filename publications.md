@@ -20,7 +20,7 @@ __Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021
 
 -----
 
-Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**\*, and Chou, T.-F.\* (2021). *(revision)*
+Zhang, X., Gui, L., Li, S., __Nandi, P.__, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.**\*, and Chou, T.-F.\* p97 D1-D2 linker regulates the inter-communication between N-domain and D2 ATPase. (2021). *(revision)*
 
 -----
 
