@@ -8,7 +8,7 @@ __Nandi, P.__, Li, S., __Poh, Y.-P.__, Chou, T.-F. and __Chiu, P.-L.__ (2021).
 
 -----
 
-Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., __Truong, C.D.__, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M.,  Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., __Chiu, P.-L.__, Rizkallah, P.J., Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. (2021). *(submitted)*
+Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., __Truong, C.D.__, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M.,  Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., __Chiu, P.-L.__, Rizkallah, P.J., Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. (2021). *(submitted)*
 
 -----
 
