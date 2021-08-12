@@ -16,7 +16,7 @@ __Nandi, P.__, Wang, F., Columbres, R.C.A., Gang, T., Li, S., __Poh, Y.-P.__, ..
 
 -----
 
-__Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ (2021). *(under review)*
+__Truong, C.D.__, Williams, D., Zhu, M., Wang, J.C.-H. and __Chiu, P.-L.__ Sample preparation using lipid monolayer. (2021). *(under review)*
 
 -----
 
