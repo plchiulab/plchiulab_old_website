@@ -16,7 +16,6 @@ The Hong Kong Community College, Hong Kong, China. <br>
 "regulated processing of p75 neurotrophin receptor"
 <br><br><br>
 
-
 -----
 
 <br><br>
@@ -77,9 +76,19 @@ B.Sc. Chemistry, Jadavpur University, West Bengal, India. <br>
 
 <br><br>
 
-
 #### Alan Nisanov
 [alan.nisanov@asu.edu](alan.nisanov@asu.edu).
+
+ASU undergraduate researcher. 
+
+<br><br><br>
+
+-----
+
+<br><br>
+
+#### Alexander Ono
+[amono1@asu.edu](amono1@asu.edu).
 
 ASU undergraduate researcher. 
 
@@ -104,7 +113,6 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 
 <br><br>
 
-
 #### Ryan Puskar
 [rpuskar@asu.edu](rpuskar@asu.edu).
 
@@ -116,7 +124,6 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
 -----
 
 <br><br>
-
 
 #### Elizabeth Rapacz
 [elizabeth.rapacz@asu.edu](elizabeth.rapacz@asu.edu).
