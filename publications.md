@@ -21,7 +21,7 @@ Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.
 
 --------------------------------------------------------------------------------
 
-Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.***, and Chou, T.-F.* p97 D1-D2 linker regulates the inter-communication between N-domain and D2 ATPase. _Biochem J_ (2021). _(accepted)_
+Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **Chiu, P.-L.***, and Chou, T.-F.* Conserved L464 in p97 D1-D2 linker is critical for p97 cofactor regulated ATPase activity. _Biochem J_ (2021). _(accepted)_
 
 --------------------------------------------------------------------------------
 
