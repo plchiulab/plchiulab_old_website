@@ -104,8 +104,8 @@ ASU undergraduate researcher.
 #### Yu-Ping Poh, Ph.D.
 [Yu-Ping.Poh@asu.edu](Yu-Ping.Poh@asu.edu).
 
-Postdoctoral Fellow, Massachusetts Institute of Technology, Cambridge. <br>
-Postdoctoral Fellow, University of Massachusetts Medical School, Worcester. <br>
+Postdoctoral Fellow, Massachusetts Institute of Technology, Cambridge, MA. <br>
+Postdoctoral Fellow, University of Massachusetts Medical School, Worcester, MA. <br>
 Ph.D. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu. <br>
 <br><br><br>

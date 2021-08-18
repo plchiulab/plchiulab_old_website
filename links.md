@@ -29,7 +29,7 @@ title: Links
 # Software
 
 - [3D Complex](https://shmoo.weizmann.ac.il/elevy/3dcomplexV6/Home.cgi)<br>
-  3D Complex is a hierarchical classification of protein complexes that describes similarities in structure, sequence, as well as topology of contacts of the constituent proteins. This is the first automatic method for generating non-redundant sets of complexes, which can be used to derive unbiased statistics on their structure and evolution.
+  3D Complex is a hierarchical classification of protein complexes that describes similarities in structure, sequence, as well as topology of contacts of the constituent proteins. 
 
 - [3D-FSC](https://3dfsc.salk.edu)<br>
   The 3D-FSC provides a quantitative measure of directional resolution anisotropy, which is caused by preferential orientation at the air-water interface, as described in Tan et al 2017.
