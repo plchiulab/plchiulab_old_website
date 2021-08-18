@@ -25,9 +25,9 @@ The Hong Kong Community College, Hong Kong, China. <br>
 #### Po-Lin Chiu, Ph.D.
 [plchiu@asu.edu](plchiu@asu.edu).
 
-Assistant Professor of Molecular Sciences, Arizona State University, Tempe. <br>
-Postdoctoal Fellow, Harvard Medical School, Boston. <br>
-Ph.D. Biophysics, University of California, Davis. <br>
+Assistant Professor of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
+Postdoctoral Fellow, Harvard Medical School, Boston, MA. <br>
+Ph.D. Biophysics, University of California, Davis, CA. <br>
 M.EE. Electrical Engineering, National Taiwan University, Taipei. <br>
 B.Sc. Pharmacy, National Taiwan University, Taipei. <br>
 
