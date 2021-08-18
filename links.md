@@ -29,7 +29,7 @@ title: Links
 # Software
 
 - [3D Complex](https://shmoo.weizmann.ac.il/elevy/3dcomplexV6/Home.cgi)<br>
-  3D Complex is a hierarchical classification of protein complexes that describes similarities in structure, sequence, as well as topology of contacts of the constituent proteins. 
+  3D Complex is a hierarchical classification of protein complexes that describes similarities in structure, sequence, as well as topology of contacts of the constituent proteins.
 
 - [3D-FSC](https://3dfsc.salk.edu)<br>
   The 3D-FSC provides a quantitative measure of directional resolution anisotropy, which is caused by preferential orientation at the air-water interface, as described in Tan et al 2017.
@@ -153,7 +153,7 @@ title: Links
   SCWRL4 predicts the side-chain conformations. (G. G. Krivov, M. V. Shapovalov, and R. L. Dunbrack, Jr. Improved prediction of protein side-chain conformations with SCWRL4\. Proteins (2009).)
 
 - [TomoSegMemTV](https://sites.google.com/site/3demimageprocessing/tomosegmemtv)<br>
-  TomoSegMemTV is a software package for segmenting membranes in tomograms. It is based on (1) a Gaussian-like model of membrane profile, (2) a local differential structure approach and (3) anisotropic propagation of the local structural information using the tensor voting algorithm. The local structure at each voxel is refined according to the information received from other voxels. Because voxels belonging to the same membrane have coherent structural information, the underlying global structure is strengthened. In this way, local information is easily integrated at a global scale to yield segmented structures.The method performs well under low signal-to-noise ratio typically found in tomograms of vitrified samples under cryo-tomography conditions and can bridge gaps present on membranes. The software TomoSegMemTV is provided as a set of Matlab functions. The kernels of the most computationaly intensive operations were coded in C++ using code optimization and multithreading and are provided as binaries to be used within Matlab.
+  TomoSegMemTV is a software package for segmenting membranes in tomograms. It is based on (1) a Gaussian-like model of membrane profile, (2) a local differential structure approach and (3) anisotropic propagation of the local structural information using the tensor voting algorithm. The local structure at each voxel is refined according to the information received from other voxels. Because voxels belonging to the same membrane have coherent structural information, the underlying global structure is strengthened. In this way, local information is easily integrated at a global scale to yield segmented structures.The method performs well under low signal-to-noise ratio typically found in tomograms of vitrified samples under cryo-tomography conditions and can bridge gaps present on membranes. The software TomoSegMemTV is provided as a set of Matlab functions. The kernels of the most computation-intensive operations were coded in C++ using code optimization and multithreading and are provided as binaries to be used within Matlab.
 
 # Cryo-EM density refinement packages
 
