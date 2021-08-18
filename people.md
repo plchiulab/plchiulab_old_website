@@ -53,7 +53,7 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ. <br>
 #### Edgar Ferrer
 [eferrer1@asu.edu](eferrer1@asu.edu).
 
-SMS undergraduate researcher. 
+SMS undergraduate researcher.
 
 <br><br><br>
 
@@ -75,11 +75,12 @@ B.Sc. Chemistry, Jadavpur University, West Bengal, India. <br>
 -----
 
 <br><br>
+![Alan Nisanov](images/alan.png){:style="float: right; margin-left:10px; width:200px;"}
 
 #### Alan Nisanov
 [alan.nisanov@asu.edu](alan.nisanov@asu.edu).
 
-ASU undergraduate researcher. 
+ASU undergraduate researcher.
 
 <br><br><br>
 
@@ -90,7 +91,7 @@ ASU undergraduate researcher.
 #### Alexander Ono
 [amono1@asu.edu](amono1@asu.edu).
 
-ASU undergraduate researcher. 
+ASU undergraduate researcher.
 
 <br><br><br>
 
@@ -169,8 +170,3 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India. <br>
 2019 Summer - Jay-How Yang - BCASD, ASU. <br>
 2018 Summer - Sanna Naveed. <br>
 2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC. <br>
-
-
-
-
-
