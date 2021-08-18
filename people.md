@@ -155,6 +155,8 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ. <br>
 
 <br><br>
 
+![Kazi Waheeda](images/Kazi.jpg){:style="float: right; margin-left:10px; width:200px;"}
+
 #### Kazi Waheeda
 [kwaheeda@asu.edu](kwaheeda@asu.edu).
 
