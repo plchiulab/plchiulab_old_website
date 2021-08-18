@@ -29,7 +29,7 @@ Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., **Chan, K.-Y.**, Mer, G._, **Chiu, P.-L.**_, and Kumar, R. _Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. _J Biol Chem_ **297**:100912 (2021).
+**Truong, C.D.**, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., **Chan, K.-Y.**, Mer, G._, **Chiu, P.-L.**_, and Kumar, R. Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. _J Biol Chem_ **297**:100912 (2021).
 
 --------------------------------------------------------------------------------
 
