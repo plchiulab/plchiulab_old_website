@@ -126,6 +126,8 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ. <br>
 
 <br><br>
 
+![Elizabeth Rapacz](images/Elizabeth.jpg){:style="float: right; margin-left:10px; width:200px;"}
+
 #### Elizabeth Rapacz
 [elizabeth.rapacz@asu.edu](elizabeth.rapacz@asu.edu).
 
