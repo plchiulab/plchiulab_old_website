@@ -17,7 +17,7 @@ Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer. (2021). _(revision)_
+**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. (2021). _(revision)_
 
 --------------------------------------------------------------------------------
 
