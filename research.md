@@ -3,11 +3,11 @@ layout: page
 title: Research
 ---
 
-Our laboratory research focus on molecular mechanisms of bio-macromolecules, particularly membrane receptor complexes and energy-related machinery of biological systems.  The main tool we use to visualize these molecular processes is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
+Our laboratory research focuses on molecular mechanisms of bio-macromolecules, particularly membrane receptor complexes and energy-related machinery of biological systems.  The main tool we use to visualize these molecular processes is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
 
 <hr>
 ##### Membrane proteins
-Membrane protein acts as a gate keeper or a diode in the cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  We are tackling the fundamental questions about:
+Membrane protein acts as a gate keeper or a diode in cell membranes, which plays an important role in maintaining physiological processes in response to environmental changes.  We are tackling the fundamental questions about:
 
 - How does membrane protein sense the environmental change and respond in a functional or structural change?
 - How do membrane lipids spatially organize the proteins in the bilayer to perform their functions?
