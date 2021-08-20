@@ -25,11 +25,11 @@ Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **
 
 --------------------------------------------------------------------------------
 
-**Nandi, P.**, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., **Poh, Y.-P.**, Chou, T.-F._, and **Chiu, P.-L.**_ Structural and functional analysis of disease-linked p97 mutant complexes. _Int J Mole Sci_ **22**:8079 (2021).
+**Nandi, P.**, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., **Poh, Y.-P.**, Chou, T.-F., and **Chiu, P.-L.** Structural and functional analysis of disease-linked p97 mutant complexes. _Int J Mole Sci_ **22**:8079 (2021).
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., **Chan, K.-Y.**, Mer, G._, **Chiu, P.-L.**_, and Kumar, R. Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. _J Biol Chem_ **297**:100912 (2021).
+**Truong, C.D.**, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., **Chan, K.-Y.**, Mer, G., **Chiu, P.-L.**, and Kumar, R. Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. _J Biol Chem_ **297**:100912 (2021).
 
 --------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ March, K., Venkatraman, K., **Truong, C.D.**, Williams, D., **Chiu, P.-L.**, and
 
 --------------------------------------------------------------------------------
 
-Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P._, and **Chiu, P.-L.**_. Structural basis of redox modulation on chloroplast ATP synthase. _Commun Biol_ **3**:482 (2020).
+Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P., and **Chiu, P.-L.**. Structural basis of redox modulation on chloroplast ATP synthase. _Commun Biol_ **3**:482 (2020).
 
 --------------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ Aryal, R.P._, Kwak, P.B._, Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C
 
 --------------------------------------------------------------------------------
 
-Kalbermatter, D._, **Chiu, P.-L.**_, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. _J Struct Biol_ **199**:39 45 (2017). (*equal contributions)
+Kalbermatter, D., **Chiu, P.-L.**, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. _J Struct Biol_ **199**:39 45 (2017). (*equal contributions)
 
 --------------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ Klara, S.S., Saboe, P.O., Sines, I.T., Babaei, M., **Chiu, P.-L.**, DeZorzi, R.,
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.***, Li, X._, Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015). (_equal contributions)
+**Chiu, P.-L.***, Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015). (_equal contributions)
 
 --------------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ Kalbermatter, D., Jeckelmann, J.-M., **Chiu, P.-L.**, Ucurum, Z., Walz, T., and 
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.***, Bou-Assaf, G._, Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. _Blood_ **126**:935-938 (2015). (_equal contributions)<br>
+**Chiu, P.-L.***, Bou-Assaf, G., Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. _Blood_ **126**:935-938 (2015). (_equal contributions)<br>
 
 > Commentary in _Blood_: Krishnaswamy, S. FVIII-VWF dos-à-dos. _Blood_ **126**:923-924 (2015).
 
