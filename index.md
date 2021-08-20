@@ -15,8 +15,6 @@ layout: first_page
 
 <br>
 
-
-
 <br>
 
 ## News
@@ -27,9 +25,4 @@ Back to in-person mode in the lab!
 Lab Stack Overflow site is created.  https://stackoverflow.com/c/chiu-laboratory-asu/
 
 #### March 19, 2019
-Chloe passes the oral examination and becomes the Ph.D. candidate. 
-
-
-
-
-
+Chloe passes the oral examination and becomes the Ph.D. candidate.
