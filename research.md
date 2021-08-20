@@ -47,7 +47,7 @@ Membrane protein acts as a gate keeper or a diode in cell membranes, which plays
 
 <hr>
 ##### Energy-related molecular mechanisms
-We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex (Chlorobaculum tepidum and P2K) and ATP synthase motors (chloroplast and bovine).  We use both cryo-EM and molecular simulation methods to understand the energy transduction in these systems.  We first determined different association modes of the FMO to the RC complex.  The complete complex demonstrates an asymmetric arrangement attached to the RC intracellular surface.  Secondly, we are interested in how activated RC-FMO system modulates the membrane voltage via the charge creation by RC.  We are also interested in how membrane voltage modulation affects the non-equilibrium dynamics of ATP synthase.
+We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex (_Chlorobaculum tepidum_ and _P2K_) and ATP synthase motors (chloroplast and bovine).  We use both cryo-EM and molecular simulation methods to understand the energy transduction in these systems.  We first determined different association modes of the FMO to the RC complex.  The complete complex demonstrates an asymmetric arrangement attached to the RC intracellular surface.  Secondly, we are interested in how activated RC-FMO system modulates the membrane voltage via the charge creation by RC.  We are also interested in how membrane voltage modulation affects the non-equilibrium dynamics of ATP synthase.
 
 <br>
 <p align="center">
