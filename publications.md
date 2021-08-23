@@ -81,7 +81,7 @@ Klara, S.S., Saboe, P.O., Sines, I.T., Babaei, M., **Chiu, P.-L.**, DeZorzi, R.,
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.***, Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015). (_equal contributions)
+**Chiu, P.-L.**, Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015).
 
 --------------------------------------------------------------------------------
 
