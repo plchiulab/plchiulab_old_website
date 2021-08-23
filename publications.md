@@ -89,7 +89,7 @@ Kalbermatter, D., Jeckelmann, J.-M., **Chiu, P.-L.**, Ucurum, Z., Walz, T., and 
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.***, Bou-Assaf, G., Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. _Blood_ **126**:935-938 (2015). (_equal contributions)<br>
+**Chiu, P.-L.***, Bou-Assaf, G., Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. _Blood_ **126**:935-938 (2015). (*equal contributions)<br>
 
 > Commentary in _Blood_: Krishnaswamy, S. FVIII-VWF dos-à-dos. _Blood_ **126**:923-924 (2015).
 
