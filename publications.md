@@ -5,9 +5,9 @@ title: Publications
 
 <br>
 
-**Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2021).
+<!-- **Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2021). -->
 
---------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------
 
 Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.**, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., Rizkallah, P.J., **Chiu, P.-L.**, Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. (2021). _(submitted)_
 
