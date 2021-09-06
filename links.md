@@ -183,6 +183,9 @@ title: Links
 - [Martini](http://cgmartini.nl/index.php)<br>
   The Martini force field is a coarse-grain (CG) force field suited for molecular dynamics simulations of biomolecular systems. The force field has been parametrized in a systematic way, combining top-down and bottum-up strategies: Non-bonded interactions are based on the reproduction of experimental partitioning free energies between polar and apolar phases of a large number of chemical compounds, whereas bonded interactions are derived from reference all-atom simulations.
 
+- [MDAnalysis](https://www.mdanalysis.org/)<br>
+  MDAnalysis is an object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats. It can write most of these formats, too, together with atom selections suitable for visualization or native analysis tools. -
+
 # Cryo-EM education
 
 - [NCCAT Remote Learning Central](https://nccat.nysbc.org/activities/nccat-remote-learning/)
@@ -208,6 +211,9 @@ title: Links
 
   - [Cython](http://cython.org)<br>
     Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
+
+  - [DASK](https://dask.org/)<br>
+    Dask provides advanced parallelism for analytics, including Scikit, RAPDIS, MDAnalysis, and so on.
 
   - [matplotlib](http://matplotlib.org)<br>
     matplotlib is a python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
