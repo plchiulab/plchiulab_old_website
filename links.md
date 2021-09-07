@@ -149,6 +149,9 @@ title: Links
 - [Rosetta](https://www.rosettacommons.org/docs/latest/Home)<br>
   Rosetta is a comprehensive software suite for modeling macromolecular structures. As a flexible, multi-purpose application, it includes tools for structure prediction, design, and remodeling of proteins and nucleic acids. (Rosetta Commons; <https://www.rosettacommons.org>)
 
+- [RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold)<br>
+  Accurate prediction of protein structures and interactions using a 3-track network.
+
 - [SCWRL4](http://dunbrack.fccc.edu/scwrl4/index.php)<br>
   SCWRL4 predicts the side-chain conformations. (G. G. Krivov, M. V. Shapovalov, and R. L. Dunbrack, Jr. Improved prediction of protein side-chain conformations with SCWRL4\. Proteins (2009).)
 
