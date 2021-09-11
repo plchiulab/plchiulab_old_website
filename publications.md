@@ -95,7 +95,7 @@ Kalbermatter, D., Jeckelmann, J.-M., **Chiu, P.-L.**, Ucurum, Z., Walz, T., and 
 
 --------------------------------------------------------------------------------
 
-Hite, R.K._, **Chiu, P.-L.**_, Schuller, J., and Walz, T. Effect of lipid head groups on double-layered two-dimensional crystals formed by aquaporin-0\. _PLoS ONE_ **10**:e0117371 (2015). (*equal contributions)
+Hite, R.K., **Chiu, P.-L.**, Schuller, J., and Walz, T. Effect of lipid head groups on double-layered two-dimensional crystals formed by aquaporin-0\. _PLoS ONE_ **10**:e0117371 (2015). (10.137/journal.pone.0117371)
 
 --------------------------------------------------------------------------------
 
