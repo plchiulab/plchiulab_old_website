@@ -65,7 +65,7 @@ Toporik, H., Li, J., Williams, D., **Chiu, P.-L.**, and Mazor, Y. The structure 
 
 --------------------------------------------------------------------------------
 
-Aryal, R.P._, Kwak, P.B._, Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. _Mol Cell_ **67**:770-782 (2017). (*equal contributions)
+Aryal, R.P., Kwak, P.B. Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. _Mol Cell_ **67**:770-782 (2017). (*equal contributions)
 
 --------------------------------------------------------------------------------
 
