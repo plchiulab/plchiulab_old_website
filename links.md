@@ -117,7 +117,10 @@ title: Links
   CCP4 exists to produce and support a world-leading, integrated suite of programs that allows researchers to determine macromolecular structures by X-ray crystallography, and other biophysical techniques.
 
 - [CMCD in Gromacs](https://www.mpibpc.mpg.de/grubmueller/densityfitting)<br>
-  We present a correlation-driven molecular dynamics (CDMD) method for automated refinement of atomistic models into cryo-electron microscopy (cryo-EM) maps at resolutions ranging from near-atomic to subnanometer. It utilizes a chemically accurate force field and thermodynamic sampling to improve the real-space correlation between the modeled structure and the cryo-EM map.
+  The correlation-driven molecular dynamics (CDMD) method for automated refinement of atomistic models into cryo-electron microscopy (cryo-EM) maps at resolutions ranging from near-atomic to subnanometer. It utilizes a chemically accurate force field and thermodynamic sampling to improve the real-space correlation between the modeled structure and the cryo-EM map.
+
+- [cryoID](https://github.com/EICN-UCLA/cryoID)<br>
+  cryoID is a python-based program that determines the unique identity of the protein(s) in unknown near-atomic resolution cryoEM density maps from a pool of candidate protein sequences.
 
 - [DeepTracer](https://deeptracer.uw.edu/home)<br>
   The fully automatic tool for de novo all-atom protein complex structure prediction from cryo-electron microscopy (cryo-EM) density maps using 3D deep learning. (Pfab et al. (2020))
