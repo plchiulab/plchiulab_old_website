@@ -3,8 +3,7 @@ layout: page
 title: People
 ---
 
-<br>
-<br>
+<br><br>
 
 ![Ka-Yi Tina Chan](images/tina.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -15,14 +14,11 @@ title: People
 The Hong Kong Polytechnic University, Hong Kong, China.<br>
 The Hong Kong Community College, Hong Kong, China.<br>
 
-"regulated processing of p75 neurotrophin receptor"<br>
-<br>
-<br>
+"regulated processing of p75 neurotrophin receptor"<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 ![Po-Lin Chiu](images/square-plc.png){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -40,8 +36,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei.<br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 # Kira Devore
 
@@ -51,14 +46,11 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 "p97-mediated membrane fusion"
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 # Edgar Ferrer
 
@@ -66,14 +58,11 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 SMS undergraduate researcher.
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 ![Purbasha Nandi](images/pnandi.png){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -84,14 +73,11 @@ SMS undergraduate researcher.
 M.Sc. Chemistry, IIT Madras, Tamil Nadu, India.<br>
 B.Sc. Chemistry, Jadavpur University, West Bengal, India.<br>
 
-"apoptotic neurotrophin complex", "p97-mediated membrane fusion"<br>
-<br>
-<br>
+"apoptotic neurotrophin complex", "p97-mediated membrane fusion"<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 # Alexander Ono
 
@@ -99,14 +85,11 @@ B.Sc. Chemistry, Jadavpur University, West Bengal, India.<br>
 
 ASU undergraduate researcher.
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 ![Yu-Ping Poh](images/square-ypp.png){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -117,14 +100,12 @@ ASU undergraduate researcher.
 Postdoctoral Fellow, Massachusetts Institute of Technology, Cambridge, MA.<br>
 Postdoctoral Fellow, University of Massachusetts Medical School, Worcester, MA.<br>
 Ph.D. Life Sciences, National Tsing-Hua University, Hsinchu.<br>
-B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu.<br><br>
-<br>
-<br>
+B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu.<br>
+<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 # Ryan Puskar
 
@@ -132,14 +113,11 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu.<br><br>
 
 B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ.<br>
 
-"interaction between FMO and monolayer baseplate CsmA proteins"<br>
-<br>
-<br>
+"interaction between FMO and monolayer baseplate CsmA proteins"<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 ![Elizabeth Rapacz](images/Elizabeth.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -151,14 +129,11 @@ ASU undergraduate researcher.<br>
 
 "regulated processing of p75 neurotrophin receptor"
 
-<br>
-<br>
-<br>
+<br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 ![Du Chloe Truong](images/img_1486_sq.png){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -168,14 +143,11 @@ ASU undergraduate researcher.<br>
 
 B.Sc. Biochemistry, Arizona State University, Tempe, AZ.<br>
 
-"Nogo receptor complex", "integrin complexes", "monolayer sandwich technique"<br>
-<br>
-<br>
+"Nogo receptor complex", "integrin complexes", "monolayer sandwich technique"<br><br><br>
 
 --------------------------------------------------------------------------------
 
-<br>
-<br>
+<br><br>
 
 ![Kazi Waheeda](images/Kazi.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
@@ -185,9 +157,7 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
-"Rubisco/Rca complex"<br>
-<br>
-<br>
+"Rubisco/Rca complex"<br><br><br>
 
 --------------------------------------------------------------------------------
 
