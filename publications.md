@@ -3,21 +3,21 @@ layout: page
 title: Publications
 ---
 
-<br>
+<br> 
 
 <!-- **Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2021). -->
 
  --------------------------------------------------------------------------------
-
-Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.**, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., Rizkallah, P.J., **Chiu, P.-L.**, Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. (2021). _(submitted)_
-
---------------------------------------------------------------------------------
 
 **Nandi, P.**, Wang, F., Columbres, R.C.A., Gang, T., Li, S., **Poh, Y.-P.**, ..., Chou, T.-F., and **Chiu, P.-L.** (2021). _(hold for patent)_
 
 --------------------------------------------------------------------------------
 
 **Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. (2021). _(revision)_
+
+--------------------------------------------------------------------------------
+
+Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.**, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., Rizkallah, P.J., **Chiu, P.-L.**, Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ (2021). _(accepted)_
 
 --------------------------------------------------------------------------------
 
