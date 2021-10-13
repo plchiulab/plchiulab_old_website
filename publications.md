@@ -7,7 +7,7 @@ title: Publications
 
 <!-- **Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2021). -->
 
- --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 **Nandi, P.**, Wang, F., Columbres, R.C.A., Gang, T., Li, S., **Poh, Y.-P.**, ..., Chou, T.-F., and **Chiu, P.-L.** (2021). _(hold for patent)_
 

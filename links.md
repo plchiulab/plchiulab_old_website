@@ -3,7 +3,7 @@ layout: page
 title: Links
 ---
 
-# Arizona State University
+## Arizona State University
 
 - [Arizona State University](http://www.asu.edu)
 - [School of Molecular Sciences](http://sms.asu.edu)
@@ -12,21 +12,21 @@ title: Links
 - [ASU CLAS Bioimaging Facility - Electron Microscopy Division](http://rts.clas.asu.edu/em)
 - [ASU Research Computing Facility](https://cores.research.asu.edu/research-computing/about-rc)
 
-# EM community
+## EM community
 
 - [3DEM](http://3dem.ucsd.edu)
 - [EMPIAR](https://www.ebi.ac.uk/pdbe/emdb/empiar/) (Electron Microscopy Pilot Image Archive)
 - [NRAMM](http://nramm.nysbc.org) (National Resource for Automated Molecular Microscopy)
 - [UST](http://www.ust.caltech.edu/index.html) (Physical Biology Center for Ultrafast Science & Technology @ Caltech)
 
-# Structural biology community
+## Structural biology community
 
 - [Chemistry at HARvard Macromolecular Mechanics (CHARMM)](https://www.charmm.org)
 - [Deutsches Elektronen-Synchrotron (DESY)](http://www.desy.de/index_eng.html)
 - [The Human Protein Atlas](https://www.proteinatlas.org/)
 - [Theoretical and Computational Biophysics Group @ UIUC](http://www.ks.uiuc.edu/)
 
-# Software
+## Software
 
 - [3D Complex](https://shmoo.weizmann.ac.il/elevy/3dcomplexV6/Home.cgi)<br>
   3D Complex is a hierarchical classification of protein complexes that describes similarities in structure, sequence, as well as topology of contacts of the constituent proteins.
@@ -100,7 +100,7 @@ title: Links
 - [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/)<br>
   UCSF Chimera is a highly extensible program for interactive visualization and analysis of molecular structures and related data.
 
-# Electron crystallographic processing
+## Electron crystallographic processing
 
 - [2DX](http://www.2dx.unibas.ch)<br>
   2dx is an initiative that aims at facilitating computer image processing in electron crystallography.
@@ -108,7 +108,7 @@ title: Links
 - [IPLT](http://www.iplt.org/)<br>
   The Image Processing Library & Toolbox is an open-source project, released under the GNU General Public License. It is primarily aimed at the electron microscopy community, with particular emphasis on 2D electron crystallography.
 
-# Modeling
+## Modeling
 
 - [APBS & PDB2PQR](http://www.poissonboltzmann.org)<br>
   APBS (Adaptive Poisson-Boltzmann Solver) and PDB2PQR are software packages designed to help you analyze the solvation properties of small and macro-molecules such as proteins, nucleic acids, and other complex systems.
@@ -161,7 +161,7 @@ title: Links
 - [TomoSegMemTV](https://sites.google.com/site/3demimageprocessing/tomosegmemtv)<br>
   TomoSegMemTV is a software package for segmenting membranes in tomograms. It is based on (1) a Gaussian-like model of membrane profile, (2) a local differential structure approach and (3) anisotropic propagation of the local structural information using the tensor voting algorithm. The local structure at each voxel is refined according to the information received from other voxels. Because voxels belonging to the same membrane have coherent structural information, the underlying global structure is strengthened. In this way, local information is easily integrated at a global scale to yield segmented structures.The method performs well under low signal-to-noise ratio typically found in tomograms of vitrified samples under cryo-tomography conditions and can bridge gaps present on membranes. The software TomoSegMemTV is provided as a set of Matlab functions. The kernels of the most computation-intensive operations were coded in C++ using code optimization and multithreading and are provided as binaries to be used within Matlab.
 
-# Cryo-EM density refinement packages
+## Cryo-EM density refinement packages
 
 - [cisTEM](https://cistem.org)<br>
   cisTEM is user-friendly software to process cryo-EM images of macromolecular complexes and obtain high-resolution 3D reconstructions from them. It was developed by Tim Grant, Alexis Rohou and Nikolaus Grigorieff and comprises a number of tools to process image data including movies, micrographs and stacks of single-particle images, implementing a complete "pipeline" of processing steps to obtain high-resolution single-particle reconstructions.
@@ -181,7 +181,7 @@ title: Links
 - [THUNDER](https://github.com/thuem/THUNDER)<br>
   A particle-filter framework for robust cryoEM 3D reconstruction.
 
-# Molecular simulations
+## Molecular simulations
 
 - [Gromacs](http://www.gromacs.org/)<br>
   GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.
@@ -192,7 +192,7 @@ title: Links
 - [MDAnalysis](https://www.mdanalysis.org/)<br>
   MDAnalysis is an object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats. It can write most of these formats, too, together with atom selections suitable for visualization or native analysis tools. -
 
-# Cryo-EM education
+## Cryo-EM education
 
 - [NCCAT Remote Learning Central](https://nccat.nysbc.org/activities/nccat-remote-learning/)
 
@@ -200,7 +200,7 @@ title: Links
 
 - [EM-University](https://em-learning.com)
 
-# Scripting toolboxes
+## Scripting toolboxes
 
 - [Scripts for Topaz use in Relion](https://github.com/tbepler/topaz/tree/master/relion_run_topaz)<br>
   These scripts allow you to run TOPAZ particle picker and denoiser (<https://github.com/tbepler/topaz>) from the RELION (<https://github.com/3dem/relion>) gui as an External job type.
@@ -211,7 +211,7 @@ title: Links
 - [CTF calculator](https://3dem.github.io/relion/ctf.html)<br>
   This page is written by Takanori Nakane at MRC-LMB. This page uses Javascript for calculation.
 
-# Computation resources
+## Computation resources
 
 - [Python](https://www.python.org)
 

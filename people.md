@@ -7,7 +7,7 @@ title: People
 
 ![Ka-Yi Tina Chan](images/tina.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-# Ka Yi (Tina) Chan
+## Ka Yi (Tina) Chan
 
 [kchan15@asu.edu](mailto:kchan15@asu.edu).
 
@@ -22,7 +22,7 @@ The Hong Kong Community College, Hong Kong, China.<br>
 
 ![Po-Lin Chiu](images/square-plc.png){:style="float: right; margin-left:10px; width:200px;"}
 
-# Po-Lin Chiu, Ph.D.
+## Po-Lin Chiu, Ph.D.
 
 [plchiu@asu.edu](mailto:plchiu@asu.edu).
 
@@ -38,7 +38,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei.<br>
 
 <br><br>
 
-# Kira Devore
+## Kira Devore
 
 [kira.devore@asu.edu](mailto:kira.devore@asu.edu).
 
@@ -52,7 +52,7 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 <br><br>
 
-# Edgar Ferrer
+## Edgar Ferrer
 
 [eferrer1@asu.edu](mailto:eferrer1@asu.edu).
 
@@ -66,7 +66,7 @@ SMS undergraduate researcher.
 
 ![Purbasha Nandi](images/pnandi.png){:style="float: right; margin-left:10px; width:200px;"}
 
-# Purbasha Nandi
+## Purbasha Nandi
 
 [pnandi@asu.edu](purbasha.nandi@asu.edu).
 
@@ -79,7 +79,7 @@ B.Sc. Chemistry, Jadavpur University, West Bengal, India.<br>
 
 <br><br>
 
-# Alexander Ono
+## Alexander Ono
 
 [amono1@asu.edu](mailto:amono1@asu.edu).
 
@@ -93,7 +93,7 @@ ASU undergraduate researcher.
 
 ![Yu-Ping Poh](images/square-ypp.png){:style="float: right; margin-left:10px; width:200px;"}
 
-# Yu-Ping Poh, Ph.D.
+## Yu-Ping Poh, Ph.D.
 
 [Yu-Ping.Poh@asu.edu](mailto:Yu-Ping.Poh@asu.edu).
 
@@ -107,7 +107,7 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu.<br>
 
 <br><br>
 
-# Ryan Puskar
+## Ryan Puskar
 
 [rpuskar@asu.edu](mailto:rpuskar@asu.edu).
 
@@ -121,7 +121,7 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ.<br>
 
 ![Elizabeth Rapacz](images/Elizabeth.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-# Elizabeth Rapacz
+## Elizabeth Rapacz
 
 [elizabeth.rapacz@asu.edu](mailto:elizabeth.rapacz@asu.edu).
 
@@ -137,7 +137,7 @@ ASU undergraduate researcher.<br>
 
 ![Du Chloe Truong](images/img_1486_sq.png){:style="float: right; margin-left:10px; width:200px;"}
 
-# Du Chloe Truong
+## Du Chloe Truong
 
 [dktruong@asu.edu](mailto:dktruong@asu.edu).
 
@@ -151,7 +151,7 @@ B.Sc. Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 ![Kazi Waheeda](images/Kazi.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-# Kazi Waheeda
+## Kazi Waheeda
 
 [kwaheeda@asu.edu](mailto:kwaheeda@asu.edu).
 
