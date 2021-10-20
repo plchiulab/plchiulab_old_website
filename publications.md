@@ -13,7 +13,7 @@ title: Publications
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. (2021). _(revision)_
+**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ (2021). _(accepted)_
 
 --------------------------------------------------------------------------------
 

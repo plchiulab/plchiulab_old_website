@@ -18,6 +18,9 @@ layout: first_page
 <br>
 
 ## News
+#### October 19, 2021
+Chloe has just joined the Ph.D. club!  Also, welcome Saborni to join our group!
+
 #### July 15, 2021
 Back to in-person mode in the lab!
 
