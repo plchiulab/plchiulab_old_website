@@ -9,7 +9,7 @@ title: Publications
 
 --------------------------------------------------------------------------------
 
-**Nandi, P.**, Wang, F., Columbres, R.C.A., Gang, T., Li, S., **Poh, Y.-P.**, ..., Chou, T.-F., and **Chiu, P.-L.** (2021). _(hold for patent)_
+**Nandi, P.**, Wang, F., Columbres, R.C.A., Gang, T., Li, S., **Poh, Y.-P.**, ..., Chou, T.-F., and **Chiu, P.-L.** (2022). _(hold for patent)_
 
 --------------------------------------------------------------------------------
 

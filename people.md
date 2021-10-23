@@ -174,9 +174,9 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 # Past members
 
-2021 Fall - Alan Nisanov - BCASD, ASU.<br>
-2020 Fall - Isabella Breen - Graduated.<br>
-2020 Summer - Kris Suping Zheng.<br>
-2019 Summer - Jay-How Yang - BCASD, ASU.<br>
-2018 Summer - Sanna Naveed.<br>
-2018 Spring - Pushkar Desaraju - Software Developer Intern - Edupoint Educational Systems, LLC.<br>
+2021 Fall   - Alan Nisanov (Undergraduate) - BCASD, ASU<br>
+2020 Fall   - Isabella Breen (Graduate)<br>
+2020 Summer - Kris Suping Zheng (Undergraduate)<br>
+2019 Summer - Jay-How Yang (Postdoc) - BCASD, ASU<br>
+2018 Summer - Sanna Naveed (Undergraduate)<br>
+2018 Spring - Pushkar Desaraju (Graduate)- Software Developer Intern - Edupoint Educational Systems, LLC<br>
