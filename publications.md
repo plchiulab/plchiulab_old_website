@@ -5,7 +5,7 @@ title: Publications
 
 <br> 
 
-**Truong, C.D.**, **Puskar, R.**, ..., Chou, T.-F., Mazor, Y., Spence, J., Nannenga, B., and **Chiu, P.-L.** (2021). 
+**\#Truong, C.D.**, **\#Puskar, R.**, ..., Chou, T.-F., Mazor, Y., Spence, J., Nannenga, B., and **Chiu, P.-L.** (2021). 
 
 --------------------------------------------------------------------------------
 
@@ -29,11 +29,11 @@ Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **
 
 --------------------------------------------------------------------------------
 
-**Nandi, P.**, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., **Poh, Y.-P.**, Chou, T.-F., and **Chiu, P.-L.** Structural and functional analysis of disease-linked p97 mutant complexes. _Int J Mole Sci_ **22**:8079 (2021).
+**Nandi, P.**, Li, S., Columbres, R.C.A., Wang, F., Williams, D.R., **Poh, Y.-P.**, \#Chou, T.-F., and **\#Chiu, P.-L.** Structural and functional analysis of disease-linked p97 mutant complexes. _Int J Mole Sci_ **22**:8079 (2021).
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., **Chan, K.-Y.**, Mer, G., **Chiu, P.-L.**, and Kumar, R. Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. _J Biol Chem_ **297**:100912 (2021).
+**Truong, C.D.**, Craig, T.A., Cui, G., Botuyan, M.V., Serkasevich, R.A., **Chan, K.-Y.**, \#Mer, G., **\#Chiu, P.-L.**, and \#Kumar, R. Cryo-EM reveals conformational flexibility in apo DNA polymerase zeta. _J Biol Chem_ **297**:100912 (2021).
 
 --------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ March, K., Venkatraman, K., **Truong, C.D.**, Williams, D., **Chiu, P.-L.**, and
 
 --------------------------------------------------------------------------------
 
-Yang, J.-Y., Williams, D., Kandiah, E., Fromme, P., and **Chiu, P.-L.**. Structural basis of redox modulation on chloroplast ATP synthase. _Commun Biol_ **3**:482 (2020).
+Yang, J.-Y., Williams, D., Kandiah, E., \#Fromme, P., and **\#Chiu, P.-L.**. Structural basis of redox modulation on chloroplast ATP synthase. _Commun Biol_ **3**:482 (2020).
 
 --------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Klara, S.S., Saboe, P.O., Sines, I.T., Babaei, M., **Chiu, P.-L.**, DeZorzi, R.,
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.**, Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015).
+**\#Chiu, P.-L.**, \#Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015).
 
 --------------------------------------------------------------------------------
 
@@ -93,17 +93,17 @@ Kalbermatter, D., Jeckelmann, J.-M., **Chiu, P.-L.**, Ucurum, Z., Walz, T., and 
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.**, Bou-Assaf, G., Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. _Blood_ **126**:935-938 (2015). (*equal contributions)<br>
+**\#Chiu, P.-L.**, \#Bou-Assaf, G., Chhabra, E.S., Chambers, M.G., Liu, L., Peters, R., Kulman, J.D., and Walz, T. Mapping the interaction between factor VIII and von Willebrand factor by electron microscopy and mass spectrometry. _Blood_ **126**:935-938 (2015). (*equal contributions)<br>
 
 > Commentary in _Blood_: Krishnaswamy, S. FVIII-VWF dos-à-dos. _Blood_ **126**:923-924 (2015).
 
 --------------------------------------------------------------------------------
 
-Hite, R.K., **Chiu, P.-L.**, Schuller, J., and Walz, T. Effect of lipid head groups on double-layered two-dimensional crystals formed by aquaporin-0\. _PLoS ONE_ **10**:e0117371 (2015). (10.137/journal.pone.0117371)
+\#Hite, R.K., **\#Chiu, P.-L.**, Schuller, J., and Walz, T. Effect of lipid head groups on double-layered two-dimensional crystals formed by aquaporin-0. _PLoS ONE_ **10**:e0117371 (2015). (10.137/journal.pone.0117371)
 
 --------------------------------------------------------------------------------
 
-Kowal, J., Chami, M., Baumgartner, P., Arheit, M., **Chiu, P.-L.**, Rangl, M., Scheuring, S., Nimigean, C.M., and Stahlberg, H. Ligand-induced structural changes in the cyclic nucleotide-modulated potassium channel MloK1\. _Nat Commun_ **5**:3106-3115 (2014).
+Kowal, J., Chami, M., Baumgartner, P., Arheit, M., **Chiu, P.-L.**, Rangl, M., Scheuring, S., \#Nimigean, C.M., and \#Stahlberg, H. Ligand-induced structural changes in the cyclic nucleotide-modulated potassium channel MloK1. _Nat Commun_ **5**:3106-3115 (2014).
 
 --------------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Paoli, E.-E., Kruse, D.E., Seo, J.W., Zhang, H., Kheirolomoom, A., Watson, K.D.,
 
 --------------------------------------------------------------------------------
 
-**Chiu, P.-L.**, Pagel, M.D., Evans, J.E., Chou, H.-T., Zeng, X., Gipson, B., Stahlberg, H., and Nimigean, C.M. The structure of the prokaryotic cyclic nucleotide-modulated potassium channel MloK1 at 16 Å resolution. _Structure_ **15**:1053-1064 (2007).<br>
+**Chiu, P.-L.**, Pagel, M.D., Evans, J.E., Chou, H.-T., Zeng, X., Gipson, B., \#Stahlberg, H., and \#Nimigean, C.M. The structure of the prokaryotic cyclic nucleotide-modulated potassium channel MloK1 at 16 Å resolution. _Structure_ **15**:1053-1064 (2007).<br>
 
 > Feature in _Structure_: Taraska, J.W. and Zagotta, W. Cyclic nucleotide-regulated ion channel: Spotlight on symmetry. _Structure_ **15**:1023-1024 (2007).
 
