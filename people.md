@@ -140,22 +140,6 @@ ASU undergraduate researcher.<br>
 
 "regulated processing of p75 neurotrophin receptor"
 
-<br><br>
-
---------------------------------------------------------------------------------
-
-<br><br>
-
-![Du Chloe Truong](images/img_1486_sq.png){:style="float: right; margin-left:10px; width:200px;"}
-
-## Du Chloe Truong
-
-[dktruong@asu.edu](mailto:dktruong@asu.edu).
-
-B.Sc. Biochemistry, Arizona State University, Tempe, AZ.<br>
-
-"Nogo receptor complex", "integrin complexes", "monolayer sandwich technique"<br><br><br>
-
 --------------------------------------------------------------------------------
 
 <br><br>
@@ -174,9 +158,12 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 # Past members
 
+2021 Fall   - Du Chloe Truong (Graduate) - Rampant Biosciences<br>
 2021 Fall   - Alan Nisanov (Undergraduate) - BCASD, ASU<br>
 2020 Fall   - Isabella Breen (Graduate)<br>
 2020 Summer - Kris Suping Zheng (Undergraduate)<br>
 2019 Summer - Jay-How Yang (Postdoc) - BCASD, ASU<br>
 2018 Summer - Sanna Naveed (Undergraduate)<br>
 2018 Spring - Pushkar Desaraju (Graduate)- Software Developer Intern - Edupoint Educational Systems, LLC<br>
+
+<!--- ![Du Chloe Truong](images/img_1486_sq.png){:style="float: right; margin-left:10px; width:200px;"} -->
