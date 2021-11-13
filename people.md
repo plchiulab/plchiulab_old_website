@@ -90,18 +90,6 @@ B.Sc. Chemistry, Jadavpur University, West Bengal, India.<br>
 
 <br><br>
 
-## Alexander Ono
-
-[amono1@asu.edu](mailto:amono1@asu.edu).
-
-ASU undergraduate researcher.
-
-<br><br><br>
-
---------------------------------------------------------------------------------
-
-<br><br>
-
 ![Yu-Ping Poh](images/square-ypp.png){:style="float: right; margin-left:10px; width:200px;"}
 
 ## Yu-Ping Poh, Ph.D.
