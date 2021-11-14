@@ -36,7 +36,7 @@ ASU Research Computing facility. <br>
 <br>
 <p align="center">
   <!--<img src="images/Group_photos/IMG_4020.jpg" width="1000px">-->
-  <img src="images/IMG-8979.png" width="800px">
+  <img src="images/IMG-8979s.jpg" width="800px">
   <em>Unmasked 2021. (A series of graduate students... A group heterogeneity...)</em>
 </p>
 <br>
