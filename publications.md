@@ -5,11 +5,11 @@ title: Publications
 
 <br> 
 
-**\#Truong, C.D.**, **\#Puskar, R.**, ..., Chou, T.-F., Mazor, Y., Spence, J., Nannenga, B., and **Chiu, P.-L.** (2021). 
+**\#Truong, C.D.**, **\#Puskar, R.**, ..., Chou, T.-F., Mazor, Y., Spence, J., Nannenga, B., and **Chiu, P.-L.** (2022). 
 
 --------------------------------------------------------------------------------
 
-**Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2021). 
+**Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2022). 
 
 --------------------------------------------------------------------------------
 
@@ -69,11 +69,11 @@ Toporik, H., Li, J., Williams, D., **Chiu, P.-L.**, and Mazor, Y. The structure 
 
 --------------------------------------------------------------------------------
 
-Aryal, R.P., Kwak, P.B. Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. _Mol Cell_ **67**:770-782 (2017). (*equal contributions)
+\#Aryal, R.P., \#Kwak, P.B. \#Tamayo, A.G., **Chiu, P.-L.**, Walz, T., and Weitz, C.J. Macromolecular assemblies of the mammalian circadian clock. _Mol Cell_ **67**:770-782 (2017). (\#equal contributions)
 
 --------------------------------------------------------------------------------
 
-Kalbermatter, D., **Chiu, P.-L.**, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. _J Struct Biol_ **199**:39 45 (2017). (*equal contributions)
+\#Kalbermatter, D., **\#Chiu, P.-L.**, Jeckelmann, J.-M., Ucurum, Z., Walz, T., and Fotiadis, D. Electron crystallography reveals that substrate release from the PTS IIC glucose transporter is coupled to a subtle conformational change. _J Struct Biol_ **199**:39 45 (2017). (\#equal contributions)
 
 --------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Klara, S.S., Saboe, P.O., Sines, I.T., Babaei, M., **Chiu, P.-L.**, DeZorzi, R.,
 
 --------------------------------------------------------------------------------
 
-**\#Chiu, P.-L.**, \#Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0\. _J Struct Biol_ **192**:163-173 (2015).
+**\#Chiu, P.-L.**, \#Li, X., Li, Z., Beckett, B., Brilot, A.F., Grigorieff, N., Agard, D.A., Cheng, Y., and Walz, T. Evaluation of super-resolution performance of the K2 electron counting camera using 2D crystals of aquaporin-0. _J Struct Biol_ **192**:163-173 (2015).
 
 --------------------------------------------------------------------------------
 
