@@ -17,11 +17,11 @@ title: Publications
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ (2021). _(accepted)_
+Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.**, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., Rizkallah, P.J., **Chiu, P.-L.**, Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ (2021). _(accepted)_
 
 --------------------------------------------------------------------------------
 
-Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.**, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., Rizkallah, P.J., **Chiu, P.-L.**, Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ (2021). _(accepted)_
+**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ (2021). (10.3791/63015-v) (https://www.jove.com/v/63015/sample-preparation-using-lipid-monolayer-method-for-electron)
 
 --------------------------------------------------------------------------------
 
