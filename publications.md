@@ -21,7 +21,7 @@ Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ (2021). (10.3791/63015-v) (https://www.jove.com/v/63015/sample-preparation-using-lipid-monolayer-method-for-electron)
+**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ **177**:e63015 (2021). (10.3791/63015) (https://www.jove.com/v/63015/sample-preparation-using-lipid-monolayer-method-for-electron)
 
 --------------------------------------------------------------------------------
 
