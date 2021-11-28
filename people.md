@@ -75,6 +75,18 @@ SMS undergraduate researcher.
 
 <br><br>
 
+## Galilea Loza
+
+[eferrer1@asu.edu](mailto:eferrer1@asu.edu).
+
+SMS undergraduate researcher.
+
+<br><br><br>
+
+--------------------------------------------------------------------------------
+
+<br><br>
+
 ![Purbasha Nandi](images/pnandi.png){:style="float: right; margin-left:10px; width:200px;"}
 
 ## Purbasha Nandi
