@@ -17,7 +17,7 @@ title: Publications
 
 --------------------------------------------------------------------------------
 
-Baker, A., Boyd, R., Sarkar, D., Vant, J., Teijeira-Crespo, A.T., **Truong, C.D.**, Bates, E., Wilson, E., Chan, C.K., Lipka-Lloyd, M., Fromme, P., Nagalo, M.B., Heurich, M., Williams, D., Rizkallah, P.J., **Chiu, P.-L.**, Coughlan, L., Parker, A.L., Singharoy, A. and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ (2021). _(accepted)_
+Baker, A.T., Boyd, R.J., Sarkar, D., Crespo, A.T., Chan, C.K., Bates, E., Waraich, K., Vant, J., Wilson, E., **Truong, C.D.**, Lipka-Lloyd, M., Fromme, P., Vermaas, J., Williams, D., Machiesky, L., Heurich, M., Nagalo, B.M., Coughlan, L., Umlauf, S., **Chiu, P.-L.**, Rizkallah, P.J., Cohen, T.S., Parker, A.L., Singharoy, A., and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ **7** (2021). (10.1126/sciadv.abl8213) 
 
 --------------------------------------------------------------------------------
 
