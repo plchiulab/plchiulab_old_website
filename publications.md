@@ -5,18 +5,6 @@ title: Publications
 
 <br> 
 
-**\#Truong, C.D.**, **\#Puskar, R.**, ..., Chou, T.-F., Mazor, Y., Spence, J., Nannenga, B., and **Chiu, P.-L.** (2022). 
-
---------------------------------------------------------------------------------
-
-**Nandi, P.**, Li, S., **Poh, Y.-P.**, Chou, T.-F. and **Chiu, P.-L.** Pro-NGF-p75NTR-sortilin. (2022). 
-
---------------------------------------------------------------------------------
-
-**Nandi, P.**, Wang, F., Columbres, R.C.A., Gang, T., Li, S., **Poh, Y.-P.**, ..., Chou, T.-F., and **Chiu, P.-L.** p97. (2022). _(hold for patent)_
-
---------------------------------------------------------------------------------
-
 Baker, A.T., Boyd, R.J., Sarkar, D., Crespo, A.T., Chan, C.K., Bates, E., Waraich, K., Vant, J., Wilson, E., **Truong, C.D.**, Lipka-Lloyd, M., Fromme, P., Vermaas, J., Williams, D., Machiesky, L., Heurich, M., Nagalo, B.M., Coughlan, L., Umlauf, S., **Chiu, P.-L.**, Rizkallah, P.J., Cohen, T.S., Parker, A.L., Singharoy, A., and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ **7** (2021). (10.1126/sciadv.abl8213) 
 
 --------------------------------------------------------------------------------
