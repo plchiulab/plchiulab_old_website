@@ -18,6 +18,9 @@ layout: first_page
 <br>
 
 ## News
+#### April 12, 2022
+Congradulations, Dr. Nandi!
+
 #### October 19, 2021
 Chloe has just joined the Ph.D. club!  Also, welcome Saborni to join our group!
 
