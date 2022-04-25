@@ -5,19 +5,19 @@ title: Publications
 
 <br> 
 
-**DeVore, K.** and **Chiu, P.-L.** Probing structural perturbation of biomolecules by extracting cryo-EM data heterogeneity. _Biomolecules_ (2022). (accepted for publication)
+**DeVore, K.** and **Chiu, P.-L.** Probing structural perturbation of biomolecules by extracting cryo-EM data heterogeneity. _Biomolecules_ (2022). (doi: 10.3390/biom12050628)
 
 --------------------------------------------------------------------------------
 
-Baker, A.T., Boyd, R.J., Sarkar, D., Crespo, A.T., Chan, C.K., Bates, E., Waraich, K., Vant, J., Wilson, E., **Truong, C.D.**, Lipka-Lloyd, M., Fromme, P., Vermaas, J., Williams, D., Machiesky, L., Heurich, M., Nagalo, B.M., Coughlan, L., Umlauf, S., **Chiu, P.-L.**, Rizkallah, P.J., Cohen, T.S., Parker, A.L., Singharoy, A., and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ **7** (2021). (10.1126/sciadv.abl8213) 
+Baker, A.T., Boyd, R.J., Sarkar, D., Crespo, A.T., Chan, C.K., Bates, E., Waraich, K., Vant, J., Wilson, E., **Truong, C.D.**, Lipka-Lloyd, M., Fromme, P., Vermaas, J., Williams, D., Machiesky, L., Heurich, M., Nagalo, B.M., Coughlan, L., Umlauf, S., **Chiu, P.-L.**, Rizkallah, P.J., Cohen, T.S., Parker, A.L., Singharoy, A., and Borad, M.J. ChAdOx1 interacts with CAR and PF4 with implications for thrombosis with thrombocytopenia syndrome. _Sci Adv_ **7** (2021). (doi: 10.1126/sciadv.abl8213) 
 
 --------------------------------------------------------------------------------
 
-**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ **177**:e63015 (2021). (10.3791/63015) (https://www.jove.com/v/63015/sample-preparation-using-lipid-monolayer-method-for-electron)
+**Truong, C.D.**, Williams, D., Zhu, M., Wang, J.C.-H. and **Chiu, P.-L.** Sample preparation using lipid monolayer method for electron crystallographic studies. _JoVE_ **177**:e63015 (2021). (doi: 10.3791/63015) (https://www.jove.com/v/63015/sample-preparation-using-lipid-monolayer-method-for-electron)
 
 --------------------------------------------------------------------------------
 
-Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **\#Chiu, P.-L.**, and \#Chou, T.-F. Conserved L464 in p97 D1-D2 linker is critical for p97 cofactor regulated ATPase activity. _Biochem J_ **478**:3185-3204 (2021). (10.1042/BCJ20210288)
+Zhang, X., Gui, L., Li, S., **Nandi, P.**, Wong, D.E., Moen, D.R., Lin, H.J., **\#Chiu, P.-L.**, and \#Chou, T.-F. Conserved L464 in p97 D1-D2 linker is critical for p97 cofactor regulated ATPase activity. _Biochem J_ **478**:3185-3204 (2021). (doi: 10.1042/BCJ20210288)
 
 --------------------------------------------------------------------------------
 
