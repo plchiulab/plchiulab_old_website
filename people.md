@@ -87,21 +87,6 @@ SMS undergraduate researcher.
 
 <br><br>
 
-![Purbasha Nandi](images/pnandi.png){:style="float: right; margin-left:10px; width:200px;"}
-
-## Purbasha Nandi
-
-[pnandi@asu.edu](purbasha.nandi@asu.edu).
-
-M.Sc. Chemistry, IIT Madras, Tamil Nadu, India.<br>
-B.Sc. Chemistry, Jadavpur University, West Bengal, India.<br>
-
-"apoptotic neurotrophin complex", "p97-mediated membrane fusion"<br><br><br>
-
---------------------------------------------------------------------------------
-
-<br><br>
-
 ![Yu-Ping Poh](images/square-ypp.png){:style="float: right; margin-left:10px; width:200px;"}
 
 ## Yu-Ping Poh, Ph.D.
@@ -158,6 +143,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 # Past members
 
+2022 Spring - Purbasha Nandi (Graduate) - Postdoc, Brookhaven National Lab, Upton, NY<br>
 2021 Fall   - Du Chloe Truong (Graduate) - Rampant Biosciences<br>
 2021 Fall   - Alan Nisanov (Undergraduate) - BCASD, ASU<br>
 2020 Fall   - Isabella Breen (Graduate)<br>
