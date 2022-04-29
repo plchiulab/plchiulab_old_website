@@ -67,7 +67,9 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 [eferrer1@asu.edu](mailto:eferrer1@asu.edu).
 
-SMS undergraduate researcher.
+B.Sc, Biochemistry, Arizona State University, Tempe, AZ. <br>
+
+"p97-mediated membrane fusion"
 
 <br><br><br>
 
