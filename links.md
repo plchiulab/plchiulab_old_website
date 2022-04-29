@@ -35,7 +35,7 @@ title: Links
   The 3D-FSC provides a quantitative measure of directional resolution anisotropy, which is caused by preferential orientation at the air-water interface, as described in Tan et al 2017.
 
 - [AlphaCryo4D](https://github.com/AlphaCryo4D/AlphaCryo4D)<br>
-  AlphaCryo4D is an open-source free software that implements 3D classification of single-particle cryo-EM data using deep manifold learning and novel energy-based particle voting methods. AlphaCryo4D v0.1beta is currently a prototype, NOT a stable released version, which is still under development. The authors wish to adopt the community development model to advance the future version of this open-source software with a more user-friendly interface.
+  AlphaCryo4D is an open-source free software that implements 3D classification of single-particle cryo-EM data using deep manifold learning and novel energy-based particle voting methods.  
 
 - [Bsoft](https://lsbr.niams.nih.gov/bsoft/)<br>
   Bsoft is a collection of programs and a platform for development of software for image processing in structural biology.
