@@ -5,7 +5,7 @@ title: Publications
 
 <br> 
 
-**DeVore, K.** and **Chiu, P.-L.** Probing structural perturbation of biomolecules by extracting cryo-EM data heterogeneity. _Biomolecules_ **12** (2022). (doi: 10.3390/biom12050628)
+**DeVore, K.** and **Chiu, P.-L.** Probing structural perturbation of biomolecules by extracting cryo-EM data heterogeneity. _Biomolecules_ **12**:628 (2022). (doi: 10.3390/biom12050628)
 
 --------------------------------------------------------------------------------
 
