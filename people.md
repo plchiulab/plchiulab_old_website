@@ -75,18 +75,6 @@ SMS undergraduate researcher.
 
 <br><br>
 
-## Galilea Loza
-
-[eferrer1@asu.edu](mailto:eferrer1@asu.edu).
-
-SMS undergraduate researcher.
-
-<br><br><br>
-
---------------------------------------------------------------------------------
-
-<br><br>
-
 ![Yu-Ping Poh](images/square-ypp.png){:style="float: right; margin-left:10px; width:200px;"}
 
 ## Yu-Ping Poh, Ph.D.
@@ -143,6 +131,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 # Past members
 
+2022 Spring - Galilea Loza (Undergraduate)<br>
 2022 Spring - Purbasha Nandi (Graduate) - Postdoc, Brookhaven National Lab, Upton, NY<br>
 2021 Fall   - Du Chloe Truong (Graduate) - Rampant Biosciences<br>
 2021 Fall   - Alan Nisanov (Undergraduate) - BCASD, ASU<br>
