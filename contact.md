@@ -19,7 +19,7 @@ Office: <br>
 
 Our lab is currently located in the Biodesign Building C388. <br>
 
-Lab equipment: Ultracentrifuges, incubators for insect and mammalian cell culture, AKTÅ FPLC, AKTÅ Start, Shimazu UPLC system, voltage generator with oscilloscopes, and five GPU workstations for high-performance computing. <br>
+Lab equipment: Ultracentrifuges, incubators for insect and mammalian cell culture, AKTÅ FPLC, AKTÅ Start, Shimazu UPLC system, voltage generator with oscilloscopes, and six GPU workstations for high-performance computing. <br>
 
 TEM facility (Eyring Materials Center) (frequently accessed): one Thermo Fischer/FEI Vitrobot Mark IV automated plunger, one home-made manual plunger, one Philips CM12 TEM, two FEI Tecnai TF20 TEMs, one FEI aberration-corrected Environmental Titan TEM (K3/GIF), and one Thermo Fisher/FEI Titan Krios TEM (K2). <br>
 ASU Research Computing facility. <br>
