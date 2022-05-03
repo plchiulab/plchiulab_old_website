@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Our laboratory research focuses on molecular mechanisms of bio-macromolecules, particularly membrane receptor complexes and energy-related machinery of biological systems.  The main tool we use to visualize these molecular processes is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
+Our laboratory research focuses on biomolecular mechanisms, particularly membrane receptor complexes and energy-related machinery in biological systems.  The main tool we use to visualize these molecular processes is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
 
 <hr>
 ##### Membrane proteins
