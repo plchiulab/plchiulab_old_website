@@ -133,6 +133,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 # Past members
 
+2022 Spring - Hayden Hart (Undergraduate, Honor degree)<br>
 2022 Spring - Galilea Loza (Undergraduate)<br>
 2022 Spring - Purbasha Nandi (Graduate) - Postdoc, Brookhaven National Lab, Upton, NY<br>
 2021 Fall   - Du Chloe Truong (Graduate) - Rampant Biosciences<br>
