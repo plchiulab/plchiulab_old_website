@@ -113,7 +113,7 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ.<br>
 
 ASU undergraduate researcher.<br>
 
-"regulated processing of p75 neurotrophin receptor"
+"regulated processing of p75 neurotrophin receptor"<br><br><br>
 
 --------------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 # Past members
 
-2022 Spring - Hayden Hart (Undergraduate, Honor degree)<br>
+2022 Spring - Hayden Hart (Undergraduate, Barrett Honor degree)<br>
 2022 Spring - Galilea Loza (Undergraduate)<br>
 2022 Spring - Purbasha Nandi (Graduate) - Postdoc, Brookhaven National Lab, Upton, NY<br>
 2021 Fall   - Du Chloe Truong (Graduate) - Rampant Biosciences<br>
