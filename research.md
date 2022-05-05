@@ -56,9 +56,6 @@ We are interested in how a cell produces or utilizes energy to sustain its life 
 <hr>
 ##### Electron imaging
 We are exploring electron holographic imaging for the use in the measurements of single-particle physical properties.  We initially focus on the specimen of a polarized membrane.
-<br>
-<p><img src="images/research_06.png" width="800px" align="right" /><em>A bright-field electron image of aquaporin-0 2D membrane arrays. </em>(A) Power spectrum and (B) IQ-plot of the AQP0/cholesterol 2D crystal image with its projection reconstruction in (C) grey and (D) contour representations.  Fast frame acquisition enables the registration of specimen movements during electron bombardment. (Chiu et al., 2015) </p>
-<br><br><br><br><br><br>
 
 <hr>
 ##### Research resources
