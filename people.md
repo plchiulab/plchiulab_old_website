@@ -7,7 +7,7 @@ title: People
 
 ![Ka-Yi Tina Chan](images/tina.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-## Ka Yi (Tina) Chan
+## Ka Yi (Tina) Chan (Graduate Researcher)
 
 [kchan15@asu.edu](mailto:kchan15@asu.edu).
 
@@ -38,7 +38,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei.<br>
 
 <br><br>
 
-## Saborni Chowdhury
+## Saborni Chowdhury (Graduate Researcher)
 
 [schowd29@asu.edu](mailto:schowd29@asu.edu).
 
@@ -49,7 +49,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei.<br>
 
 <br><br>
 
-## Kira Devore
+## Kira Devore (Graduate Researcher)
 
 [kira.devore@asu.edu](mailto:kira.devore@asu.edu).
 
@@ -63,7 +63,7 @@ B.Sc, Biochemistry, Arizona State University, Tempe, AZ.<br>
 
 <br><br>
 
-## Edgar Ferrer
+## Edgar Ferrer (Graduate Researcher)
 
 [eferrer1@asu.edu](mailto:eferrer1@asu.edu).
 
@@ -93,7 +93,7 @@ B.Sc. Life Sciences, National Tsing-Hua University, Hsinchu.<br>
 
 <br><br>
 
-## Ryan Puskar
+## Ryan Puskar (Graduate Researcher)
 
 [rpuskar@asu.edu](mailto:rpuskar@asu.edu).
 
@@ -107,11 +107,10 @@ B.Sc. School of Molecular Sciences, Arizona State University, Tempe, AZ.<br>
 
 ![Elizabeth Rapacz](images/Elizabeth.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-## Elizabeth Rapacz
+## Elizabeth Rapacz (Undergraduate Researcher)
 
 [elizabeth.rapacz@asu.edu](mailto:elizabeth.rapacz@asu.edu).
 
-ASU undergraduate researcher.<br>
 
 "regulated processing of p75 neurotrophin receptor"<br><br><br>
 
@@ -121,7 +120,7 @@ ASU undergraduate researcher.<br>
 
 ![Kazi Waheeda](images/Kazi.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-## Kazi Waheeda
+## Kazi Waheeda (Graduate Researcher)
 
 [kwaheeda@asu.edu](mailto:kwaheeda@asu.edu).
 
