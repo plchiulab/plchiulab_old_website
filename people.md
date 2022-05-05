@@ -116,7 +116,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 --------------------------------------------------------------------------------
 
-# Past members
+## Past members
 
 2022 Spring - Hayden Hart (Undergraduate, Barrett Honor degree)<br>
 2022 Spring - Galilea Loza (Undergraduate)<br>
