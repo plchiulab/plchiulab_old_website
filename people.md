@@ -22,8 +22,6 @@ B.Sc. Pharmacy, National Taiwan University, Taipei.<br>
 --------------------------------------------------------------------------------
 ## GRADUATE STUDENTS
 
-<br><br>
-
 ![Ka-Yi Tina Chan](images/tina.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
 ### Ka Yi (Tina) Chan
@@ -102,8 +100,6 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 --------------------------------------------------------------------------------
 ## UNDERGRADUATE STUDENTS
-
-<br><br>
 
 ![Elizabeth Rapacz](images/Elizabeth.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
