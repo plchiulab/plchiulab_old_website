@@ -103,7 +103,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 ![Elizabeth Rapacz](images/Elizabeth.jpg){:style="float: right; margin-left:10px; width:200px;"}
 
-### Elizabeth Rapacz (Undergraduate Researcher)
+### Elizabeth Rapacz
 
 [elizabeth.rapacz@asu.edu](mailto:elizabeth.rapacz@asu.edu).
 
