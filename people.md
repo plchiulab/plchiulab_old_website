@@ -20,7 +20,7 @@ B.Sc. Pharmacy, National Taiwan University, Taipei.<br>
 <br>
 
 --------------------------------------------------------------------------------
-## Graduate Students
+## GRADUATE STUDENTS
 
 <br><br>
 
@@ -101,7 +101,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 "Rubisco/Rca complex"<br><br><br>
 
 --------------------------------------------------------------------------------
-## Undergraduate Student
+## UNDERGRADUATE STUDENTS
 
 <br><br>
 
@@ -116,7 +116,7 @@ MS Biochemistry, Calcutta University, Kolkata, West Bengal, India.<br>
 
 --------------------------------------------------------------------------------
 
-## Past members
+## PAST MEMBERS
 
 2022 Spring - Hayden Hart (Undergraduate, Barrett Honor degree)<br>
 2022 Spring - Galilea Loza (Undergraduate)<br>
