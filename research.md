@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Our laboratory research focuses on biomolecular mechanisms, particularly membrane receptor complexes and energy-related machinery in biological systems.  The main tool we use to visualize these molecular processes is electron cryogenic microscopy (cryo-EM), including **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography** and **single-particle cryo-EM**.  In parallel, we are exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
+Our research focuses on biomolecular mechanisms, particularly membrane receptor complexes and energy-related machinery in biological systems.  We visualize these molecular processes using electron cryogenic microscopy (cryo-EM), and the main approaches we use are **electron crystallography** (two-dimensional (2D) crystal specimens or helical objects), **electron tomography**, and **single-particle cryo-EM**.  We are also exploring new imaging and sample preparation methods to push the limits of cryo-EM use in biology.    
 
 <hr>
 ##### Membrane proteins
@@ -47,7 +47,7 @@ Membrane protein acts as a gate keeper or a diode in cell membranes, which plays
 
 <hr>
 ##### Energy-related molecular mechanisms
-We are interested in how a cell produce or utilize energy to sustain its life.  Our research currently focus on the photosynthetic RC-FMO complex (_Chlorobaculum tepidum_ and _P2K_) and ATP synthase motors (chloroplast and bovine).  We use both cryo-EM and molecular simulation methods to understand the energy transduction in these systems.  We first determined different association modes of the FMO to the RC complex.  The complete complex demonstrates an asymmetric arrangement attached to the RC intracellular surface.  Secondly, we are interested in how activated RC-FMO system modulates the membrane voltage via the charge creation by RC.  We are also interested in how membrane voltage modulation affects the non-equilibrium dynamics of ATP synthase.
+We are interested in how a cell produce or utilize energy to sustain its life and how different organisms evolve these molecular machinary to adapt to the environmental changes.    
 
 <br>
 <p align="center">
