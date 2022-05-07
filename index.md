@@ -5,6 +5,8 @@ layout: first_page
 
 # Welcome to Cryo-EM Laboratory!
 
+## (We are moving our lab website to http://www.plchiulab.org/.)
+
 <img src="images/wordle.png" alt="wordle" align="middle" width="800">
 <br>
 
